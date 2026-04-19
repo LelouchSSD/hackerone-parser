@@ -1,0 +1,26 @@
+{
+    "profile": {
+        "username": "skksndk",
+        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDQzMDc4Mw==",
+        "url": "https://hackerone.com/skksndk"
+    },
+    "memberships": {
+        "total_count": 0
+    },
+    "snapshot": {
+        "rank": 6144
+    },
+    "user_stats": {
+        "resolved_report_count": 0,
+        "thanks_items_total_count": 0,
+        "registered_at": "2026-04-17",
+        "handlers": {},
+        "badges": {
+            "badges_count": 0,
+            "badges_names": []
+        }
+    },
+    "weakness_stats": {
+        "Exposure of Data Element to Wrong Session": 1
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "data": {
+        "user": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzMzMDk5Mg==",
+            "memberships": {
+                "total_count": 0,
+                "edges": [],
+                "__typename": "TeamMemberConnection"
+            },
+            "__typename": "User"
+        }
+    }
+}

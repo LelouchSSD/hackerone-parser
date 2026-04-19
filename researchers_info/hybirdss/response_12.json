@@ -1,0 +1,11 @@
+{
+    "data": {
+        "resource": {
+            "url": "https://hackerone.com/hybirdss",
+            "__typename": "User",
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDQyNTc4NA==",
+            "username": "hybirdss"
+        },
+        "me": null
+    }
+}

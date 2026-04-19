@@ -1,0 +1,40 @@
+{
+    "profile": {
+        "username": "aikido_security",
+        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDE3OTE4Ng==",
+        "url": "https://hackerone.com/aikido_security"
+    },
+    "memberships": {
+        "total_count": 0
+    },
+    "snapshot": {},
+    "user_stats": {
+        "resolved_report_count": 3,
+        "thanks_items_total_count": 3,
+        "registered_at": "2025-09-01",
+        "website": "https://aikido.dev/",
+        "handlers": {
+            "twitter": "AikidoSecurity"
+        },
+        "badges": {
+            "badges_count": 3,
+            "badges_names": [
+                [
+                    "2026-04-19",
+                    "Publish or Perish"
+                ],
+                [
+                    "2026-03-20",
+                    "A7: Cross-Site Scripting (XSS)"
+                ],
+                [
+                    "2026-02-19",
+                    "Streaker"
+                ]
+            ]
+        }
+    },
+    "weakness_stats": {
+        "Cross-site Scripting (XSS) - Stored": 1
+    }
+}

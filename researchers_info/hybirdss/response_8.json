@@ -1,0 +1,49 @@
+{
+    "data": {
+        "me": null,
+        "user": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDQyNTc4NA==",
+            "username": "hybirdss",
+            "name": "",
+            "intro": null,
+            "profileActivated": false,
+            "pentester_profile": null,
+            "user_streak": {
+                "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlVzZXJTdHJlYWsvc3RhdGljJTJGc3RhdGljLXVzZXItc3RyZWFrJTJGMCUyRiUyRg==",
+                "length": 0,
+                "start_date": null,
+                "end_date": null,
+                "__typename": "UserStreak"
+            },
+            "__typename": "User",
+            "created_at": "2026-04-12T18:09:27.926Z",
+            "location": null,
+            "website": null,
+            "bio": null,
+            "profile_picture": "/assets/avatars/default-14ffa99f59cd01423c64904352cc130ffcb6a802eadfd11777a54485749e60f2.png",
+            "bugcrowd_handle": null,
+            "hack_the_box_handle": null,
+            "github_handle": null,
+            "gitlab_handle": null,
+            "linkedin_handle": null,
+            "twitter_handle": null,
+            "cleared": false,
+            "verified": false,
+            "open_for_employment": null,
+            "mark_as_company_on_leaderboards": false,
+            "followed": false,
+            "resolved_report_count": 0,
+            "thanks_items_total_count": 0,
+            "badges": {
+                "edges": [],
+                "__typename": "BadgesUsersConnection"
+            },
+            "public_reviews": {
+                "edges": [],
+                "__typename": "HackerReviewsConnection"
+            }
+        },
+        "id_verification": null,
+        "__typename": "Query"
+    }
+}

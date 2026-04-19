@@ -1,0 +1,10 @@
+{
+    "data": {
+        "maintenance_banner": null,
+        "session": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlNlc3Npb24vc3RhdGlj",
+            "__typename": "Session"
+        },
+        "me": null
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "data": {
+        "resource": {
+            "url": "https://hackerone.com/mclaren650sspider",
+            "__typename": "User",
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNjI5MTg3",
+            "username": "mclaren650sspider"
+        },
+        "me": null
+    }
+}

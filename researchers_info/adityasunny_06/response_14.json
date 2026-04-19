@@ -1,0 +1,104 @@
+{
+    "data": {
+        "teams": {
+            "pageInfo": {
+                "hasNextPage": true,
+                "endCursor": "MTA",
+                "__typename": "PageInfo"
+            },
+            "edges": [
+                {
+                    "cursor": "MQ",
+                    "node": {
+                        "name": "Factlink",
+                        "handle": "factlink",
+                        "__typename": "Team"
+                    },
+                    "__typename": "TeamEdge"
+                },
+                {
+                    "cursor": "Mg",
+                    "node": {
+                        "name": "HackerOne",
+                        "handle": "security",
+                        "__typename": "Team"
+                    },
+                    "__typename": "TeamEdge"
+                },
+                {
+                    "cursor": "Mw",
+                    "node": {
+                        "name": "Phabricator",
+                        "handle": "phabricator",
+                        "__typename": "Team"
+                    },
+                    "__typename": "TeamEdge"
+                },
+                {
+                    "cursor": "NA",
+                    "node": {
+                        "name": "Ruby on Rails",
+                        "handle": "rails",
+                        "__typename": "Team"
+                    },
+                    "__typename": "TeamEdge"
+                },
+                {
+                    "cursor": "NQ",
+                    "node": {
+                        "name": "Django",
+                        "handle": "django",
+                        "__typename": "Team"
+                    },
+                    "__typename": "TeamEdge"
+                },
+                {
+                    "cursor": "Ng",
+                    "node": {
+                        "name": "Backblaze",
+                        "handle": "backblaze",
+                        "__typename": "Team"
+                    },
+                    "__typename": "TeamEdge"
+                },
+                {
+                    "cursor": "Nw",
+                    "node": {
+                        "name": "Cloudflare Public Bug Bounty",
+                        "handle": "cloudflare",
+                        "__typename": "Team"
+                    },
+                    "__typename": "TeamEdge"
+                },
+                {
+                    "cursor": "OA",
+                    "node": {
+                        "name": "Secret",
+                        "handle": "secret",
+                        "__typename": "Team"
+                    },
+                    "__typename": "TeamEdge"
+                },
+                {
+                    "cursor": "OQ",
+                    "node": {
+                        "name": "Mavenlink",
+                        "handle": "mavenlink",
+                        "__typename": "Team"
+                    },
+                    "__typename": "TeamEdge"
+                },
+                {
+                    "cursor": "MTA",
+                    "node": {
+                        "name": "MoneyStream",
+                        "handle": "moneystream",
+                        "__typename": "Team"
+                    },
+                    "__typename": "TeamEdge"
+                }
+            ],
+            "__typename": "TeamConnection"
+        }
+    }
+}

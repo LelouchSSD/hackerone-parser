@@ -1,0 +1,35 @@
+{
+    "profile": {
+        "username": "hellokbit",
+        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDAxOTExNQ==",
+        "url": "https://hackerone.com/hellokbit"
+    },
+    "memberships": {
+        "total_count": 0
+    },
+    "snapshot": {},
+    "user_stats": {
+        "resolved_report_count": 1,
+        "thanks_items_total_count": 1,
+        "registered_at": "2025-06-14",
+        "handlers": {},
+        "badges": {
+            "badges_count": 3,
+            "badges_names": [
+                [
+                    "2026-04-16",
+                    "Publish or Perish"
+                ],
+                [
+                    "2025-10-14",
+                    "Insecticide"
+                ],
+                [
+                    "2025-10-14",
+                    "Hacking Hackers"
+                ]
+            ]
+        }
+    },
+    "weakness_stats": {}
+}

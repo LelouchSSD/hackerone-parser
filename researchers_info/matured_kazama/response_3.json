@@ -1,0 +1,44 @@
+{
+    "data": {
+        "user": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTU3MjE4OA==",
+            "user_display_options": {
+                "show_private_team_thanks": false,
+                "__typename": "UserDisplayOptions"
+            },
+            "username": "matured_kazama",
+            "thanks_items_total_count": 2,
+            "thanks_items": {
+                "pageInfo": {
+                    "hasNextPage": false,
+                    "endCursor": "MQ",
+                    "__typename": "PageInfo"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTY1ODAyNTIx",
+                            "rank": 1,
+                            "report_count": 33,
+                            "total_report_count": 59,
+                            "reputation": 1656,
+                            "team": {
+                                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzQx",
+                                "handle": "cloudflare",
+                                "name": "Cloudflare Public Bug Bounty",
+                                "state": "public_mode",
+                                "url": "https://hackerone.com/cloudflare",
+                                "profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/000/041/a819f0d518a4854df667be26210167805f38a6a4_original.png/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                                "__typename": "Team"
+                            },
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    }
+                ],
+                "__typename": "ThanksItemConnection"
+            },
+            "__typename": "User"
+        }
+    }
+}

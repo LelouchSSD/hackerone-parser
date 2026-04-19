@@ -1,0 +1,104 @@
+{
+    "data": {
+        "user": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNjgwNDkw",
+            "user_display_options": {
+                "show_private_team_thanks": true,
+                "__typename": "UserDisplayOptions"
+            },
+            "username": "smlee",
+            "thanks_items_total_count": 4,
+            "thanks_items": {
+                "pageInfo": {
+                    "hasNextPage": false,
+                    "endCursor": "NA",
+                    "__typename": "PageInfo"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMzA5NzY0NTA=",
+                            "rank": null,
+                            "report_count": 2,
+                            "total_report_count": 3,
+                            "reputation": 26,
+                            "team": {
+                                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzE5ODk=",
+                                "handle": "starbucks",
+                                "name": "Starbucks",
+                                "state": "public_mode",
+                                "url": "https://hackerone.com/starbucks",
+                                "profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/001/989/c9aa38cf3b1a91daa085d31e23d23f34cd1874df_original./3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                                "__typename": "Team"
+                            },
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vNDQ5ODY2NDM1",
+                            "rank": 27,
+                            "report_count": 1,
+                            "total_report_count": 4,
+                            "reputation": 21,
+                            "team": {
+                                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzIy",
+                                "handle": "rails",
+                                "name": "Ruby on Rails",
+                                "state": "public_mode",
+                                "url": "https://hackerone.com/rails",
+                                "profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/000/022/5e2b46658c8b86bed62f574d8e1793f353cbbc63_original.png/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                                "__typename": "Team"
+                            },
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vNDU2NzEzOTAz",
+                            "rank": 85,
+                            "report_count": 0,
+                            "total_report_count": 1,
+                            "reputation": 7,
+                            "team": {
+                                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzM5Mzg2",
+                                "handle": "kubernetes",
+                                "name": "Kubernetes",
+                                "state": "public_mode",
+                                "url": "https://hackerone.com/kubernetes",
+                                "profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/039/386/486f4380e09776d05a912ca9f46be23f72fe8197_original.png/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                                "__typename": "Team"
+                            },
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vNDYwODEwNzAx",
+                            "rank": null,
+                            "report_count": 1,
+                            "total_report_count": 5,
+                            "reputation": 2,
+                            "team": {
+                                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzI2NA==",
+                                "handle": "gitlab",
+                                "name": "GitLab",
+                                "state": "public_mode",
+                                "url": "https://hackerone.com/gitlab",
+                                "profile_picture": "https://profile-photos.hackerone-user-content.com/variants/f0hovtq73f9ap815a0r1w42bocp4/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                                "__typename": "Team"
+                            },
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    }
+                ],
+                "__typename": "ThanksItemConnection"
+            },
+            "__typename": "User"
+        }
+    }
+}

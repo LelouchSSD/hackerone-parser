@@ -1,0 +1,11 @@
+{
+    "data": {
+        "resource": {
+            "url": "https://hackerone.com/mousepadkalilinux12",
+            "__typename": "User",
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDM5NjIyMw==",
+            "username": "mousepadkalilinux12"
+        },
+        "me": null
+    }
+}

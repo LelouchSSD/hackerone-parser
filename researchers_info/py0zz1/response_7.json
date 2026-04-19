@@ -1,0 +1,44 @@
+{
+    "data": {
+        "user": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNTY2NzMx",
+            "user_display_options": {
+                "show_private_team_thanks": true,
+                "__typename": "UserDisplayOptions"
+            },
+            "username": "py0zz1",
+            "thanks_items_total_count": 1,
+            "thanks_items": {
+                "pageInfo": {
+                    "hasNextPage": false,
+                    "endCursor": "MQ",
+                    "__typename": "PageInfo"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vNDAzNjYxMzg5",
+                            "rank": null,
+                            "report_count": 1,
+                            "total_report_count": 1,
+                            "reputation": 22,
+                            "team": {
+                                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzEzMjkx",
+                                "handle": "nextcloud",
+                                "name": "Nextcloud",
+                                "state": "public_mode",
+                                "url": "https://hackerone.com/nextcloud",
+                                "profile_picture": "https://profile-photos.hackerone-user-content.com/variants/hsgut1vi1cv8housqai9cm9383yx/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                                "__typename": "Team"
+                            },
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    }
+                ],
+                "__typename": "ThanksItemConnection"
+            },
+            "__typename": "User"
+        }
+    }
+}

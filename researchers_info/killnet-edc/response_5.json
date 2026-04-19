@@ -1,0 +1,17 @@
+{
+    "data": {
+        "user": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjUxMDM4OQ==",
+            "testimonials": {
+                "pageInfo": {
+                    "endCursor": null,
+                    "hasNextPage": false,
+                    "__typename": "PageInfo"
+                },
+                "edges": [],
+                "__typename": "SurveyRatingItemsConnection"
+            },
+            "__typename": "User"
+        }
+    }
+}

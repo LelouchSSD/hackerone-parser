@@ -1,0 +1,41 @@
+{
+    "profile": {
+        "username": "adilnbabras",
+        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjE4OTgyNg==",
+        "url": "https://hackerone.com/adilnbabras"
+    },
+    "memberships": {
+        "total_count": 0
+    },
+    "snapshot": {},
+    "user_stats": {
+        "resolved_report_count": 5,
+        "thanks_items_total_count": 6,
+        "registered_at": "2022-01-24",
+        "handlers": {
+            "github": "adilnbabras"
+        },
+        "badges": {
+            "badges_count": 3,
+            "badges_names": [
+                [
+                    "2025-03-18",
+                    "Streaker"
+                ],
+                [
+                    "2023-08-24",
+                    "Publish or Perish"
+                ],
+                [
+                    "2023-08-17",
+                    "Insecticide"
+                ]
+            ]
+        }
+    },
+    "weakness_stats": {
+        "Privilege Escalation": 2,
+        "Improper Access Control - Generic": 1,
+        "Insecure Direct Object Reference (IDOR)": 1
+    }
+}

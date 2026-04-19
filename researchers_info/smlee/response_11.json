@@ -1,0 +1,11 @@
+{
+    "data": {
+        "resource": {
+            "url": "https://hackerone.com/smlee",
+            "__typename": "User",
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNjgwNDkw",
+            "username": "smlee"
+        },
+        "me": null
+    }
+}

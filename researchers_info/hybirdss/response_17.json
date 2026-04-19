@@ -1,0 +1,54 @@
+{
+    "data": {
+        "me": null,
+        "search": {
+            "__typename": "SearchResultConnection",
+            "total_count": 1,
+            "nodes": [
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzM2NzQyNzU=",
+                    "_id": "3674275",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDQyNTc4NA==",
+                        "username": "hybirdss",
+                        "name": "",
+                        "__typename": "User"
+                    },
+                    "cve_ids": [],
+                    "cwe": "Authentication Bypass by Primary Weakness",
+                    "severity_rating": "Medium",
+                    "upvoted": null,
+                    "public": true,
+                    "report": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydC8zNjc0Mjc1",
+                        "databaseId": "3674275",
+                        "title": "lib/http2.c: SSL connections accept non-HTTP push schemes (incomplete fix for 2e8c922a)",
+                        "substate": "informative",
+                        "url": "https://hackerone.com/reports/3674275",
+                        "disclosed_at": "2026-04-16T07:02:57.121Z",
+                        "report_generated_content": null,
+                        "__typename": "Report"
+                    },
+                    "votes": 17,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzM1NjYz",
+                        "handle": "curl",
+                        "name": "curl",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/curl",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::ManuallyDisclosed",
+                    "latest_disclosable_activity_at": "2026-04-16T07:02:56.722Z",
+                    "submitted_at": "2026-04-15T06:22:35.639Z",
+                    "disclosed": true,
+                    "has_collaboration": false,
+                    "collaborators": []
+                }
+            ]
+        }
+    }
+}

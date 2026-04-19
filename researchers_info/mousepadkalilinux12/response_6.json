@@ -1,0 +1,44 @@
+{
+    "data": {
+        "user": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDM5NjIyMw==",
+            "user_display_options": {
+                "show_private_team_thanks": true,
+                "__typename": "UserDisplayOptions"
+            },
+            "username": "mousepadkalilinux12",
+            "thanks_items_total_count": 1,
+            "thanks_items": {
+                "pageInfo": {
+                    "hasNextPage": false,
+                    "endCursor": "MQ",
+                    "__typename": "PageInfo"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vNDYwMTIyOTkx",
+                            "rank": null,
+                            "report_count": 1,
+                            "total_report_count": 5,
+                            "reputation": 17,
+                            "team": {
+                                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzE1Njg4",
+                                "handle": "brave",
+                                "name": "Brave Software",
+                                "state": "public_mode",
+                                "url": "https://hackerone.com/brave",
+                                "profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/015/688/2aad5641af643ee4f4402896e4747293f6e9c5ca_original.png/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                                "__typename": "Team"
+                            },
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    }
+                ],
+                "__typename": "ThanksItemConnection"
+            },
+            "__typename": "User"
+        }
+    }
+}

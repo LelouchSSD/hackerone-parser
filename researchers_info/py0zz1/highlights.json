@@ -1,0 +1,41 @@
+{
+    "profile": {
+        "username": "py0zz1",
+        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNTY2NzMx",
+        "url": "https://hackerone.com/py0zz1"
+    },
+    "memberships": {
+        "total_count": 0
+    },
+    "snapshot": {
+        "reputation": 15,
+        "rank": 3254
+    },
+    "user_stats": {
+        "resolved_report_count": 1,
+        "thanks_items_total_count": 1,
+        "registered_at": "2019-04-02",
+        "handlers": {},
+        "badges": {
+            "badges_count": 3,
+            "badges_names": [
+                [
+                    "2026-04-13",
+                    "Publish or Perish"
+                ],
+                [
+                    "2026-02-11",
+                    "Milestone-program-Level-1"
+                ],
+                [
+                    "2026-02-03",
+                    "Bounty Hunter"
+                ]
+            ]
+        }
+    },
+    "weakness_stats": {
+        "Information Exposure Through Sent Data": 1,
+        "Insufficiently Protected Credentials": 1
+    }
+}

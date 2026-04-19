@@ -1,0 +1,80 @@
+{
+    "data": {
+        "me": null,
+        "user": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDQwMjYwOA==",
+            "username": "argareksapatii",
+            "name": "nobcoder",
+            "intro": "",
+            "profileActivated": true,
+            "pentester_profile": null,
+            "user_streak": {
+                "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlVzZXJTdHJlYWsvc3RhdGljJTJGc3RhdGljLXVzZXItc3RyZWFrJTJGMSUyRjIwMjYtMDQtMDErMDAlM0EwMCUzQTAwK1VUQyUyRjIwMjYtMDQtMDErMDAlM0EwMCUzQTAwK1VUQw==",
+                "length": 1,
+                "start_date": "2026-04-01T00:00:00.000Z",
+                "end_date": "2026-04-01T00:00:00.000Z",
+                "__typename": "UserStreak"
+            },
+            "__typename": "User",
+            "created_at": "2026-03-26T17:45:51.158Z",
+            "location": "",
+            "website": null,
+            "bio": "",
+            "profile_picture": "https://profile-photos.hackerone-user-content.com/variants/fpm7e6yjpfqe99ev12r8d0l8fr16/4c3f4b935c410fd89e32ce8c7cd577936b6edbe6a803fe368b72451551fd78d2",
+            "bugcrowd_handle": "",
+            "hack_the_box_handle": "",
+            "github_handle": "",
+            "gitlab_handle": "",
+            "linkedin_handle": "arga-reksapati-695a67323",
+            "twitter_handle": "",
+            "cleared": false,
+            "verified": false,
+            "open_for_employment": null,
+            "mark_as_company_on_leaderboards": false,
+            "followed": false,
+            "resolved_report_count": 1,
+            "thanks_items_total_count": 2,
+            "badges": {
+                "edges": [
+                    {
+                        "awarded_at": "2026-04-15T20:43:58.725Z",
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzE4",
+                            "name": "Publish or Perish",
+                            "image_path": "/assets/users/badges/publish-8147952674b82ea0b5b349191e02cd01ad32166b4f1e60c2f82269c29ae308e8.png",
+                            "__typename": "Badge"
+                        },
+                        "__typename": "BadgesUsersEdge"
+                    },
+                    {
+                        "awarded_at": "2026-04-03T04:12:42.920Z",
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzE=",
+                            "name": "Insecticide",
+                            "image_path": "/assets/users/badges/resolved_bronze-532a63c67f1f1f72de0d77a30606a972dd732a50b34f52ef8da190d8ac1666f5.png",
+                            "__typename": "Badge"
+                        },
+                        "__typename": "BadgesUsersEdge"
+                    },
+                    {
+                        "awarded_at": "2026-04-03T04:12:42.920Z",
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzE3",
+                            "name": "Good Samaritan",
+                            "image_path": "/assets/users/badges/samaritan-d9df23bc0d274e46f53eeae4edc794dc6d212fcb7761efd60f822292ba436d1b.png",
+                            "__typename": "Badge"
+                        },
+                        "__typename": "BadgesUsersEdge"
+                    }
+                ],
+                "__typename": "BadgesUsersConnection"
+            },
+            "public_reviews": {
+                "edges": [],
+                "__typename": "HackerReviewsConnection"
+            }
+        },
+        "id_verification": null,
+        "__typename": "Query"
+    }
+}

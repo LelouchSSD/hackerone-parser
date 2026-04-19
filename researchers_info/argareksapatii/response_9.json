@@ -1,0 +1,64 @@
+{
+    "data": {
+        "user": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDQwMjYwOA==",
+            "user_display_options": {
+                "show_private_team_thanks": true,
+                "__typename": "UserDisplayOptions"
+            },
+            "username": "argareksapatii",
+            "thanks_items_total_count": 2,
+            "thanks_items": {
+                "pageInfo": {
+                    "hasNextPage": false,
+                    "endCursor": "Mg",
+                    "__typename": "PageInfo"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vNDYwODA3NzQ4",
+                            "rank": 16,
+                            "report_count": 0,
+                            "total_report_count": 1,
+                            "reputation": 14,
+                            "team": {
+                                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzM1NjYz",
+                                "handle": "curl",
+                                "name": "curl",
+                                "state": "public_mode",
+                                "url": "https://hackerone.com/curl",
+                                "profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                                "__typename": "Team"
+                            },
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vNDU2NzE4MjQ5",
+                            "rank": 2,
+                            "report_count": 1,
+                            "total_report_count": 1,
+                            "reputation": 7,
+                            "team": {
+                                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMjk4MzM=",
+                                "handle": "arkadiyt-projects",
+                                "name": "arkadiyt-projects",
+                                "state": "public_mode",
+                                "url": "https://hackerone.com/arkadiyt-projects",
+                                "profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/029/833/c7d79126a63550aa7c99662ecb49eca1a8b2d1c3_original.png/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                                "__typename": "Team"
+                            },
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    }
+                ],
+                "__typename": "ThanksItemConnection"
+            },
+            "__typename": "User"
+        }
+    }
+}

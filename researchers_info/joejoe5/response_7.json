@@ -1,0 +1,194 @@
+{
+    "data": {
+        "me": null,
+        "search": {
+            "__typename": "SearchResultConnection",
+            "total_count": 8,
+            "nodes": [
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzMxNjg2OTE=",
+                    "_id": "3168691",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjkyNTkyNQ==",
+                        "username": "joejoe5",
+                        "name": "joejoe5",
+                        "__typename": "User"
+                    },
+                    "cve_ids": [],
+                    "cwe": "Improper Input Validation",
+                    "severity_rating": "Medium",
+                    "upvoted": null,
+                    "public": true,
+                    "report": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydC8zMTY4Njkx",
+                        "databaseId": "3168691",
+                        "title": "Residual Malicious Payloads on HackerOne after Vulnerability Fixes",
+                        "substate": "resolved",
+                        "url": "https://hackerone.com/reports/3168691",
+                        "disclosed_at": "2026-04-16T12:06:13.890Z",
+                        "report_generated_content": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydEdlbmVyYXRlZENvbnRlbnQvODY0OA==",
+                            "hacktivity_summary": "A vulnerability was previously discovered on the HackerOne platform that allowed users to add malicious payloads to their profile pages. Despite remediation efforts, some of these malicious payloads were not fully removed from user profiles. This situation meant that the malicious content could still be triggered when users visited certain profile pages.",
+                            "__typename": "ReportGeneratedContent"
+                        },
+                        "__typename": "Report"
+                    },
+                    "votes": 35,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzEz",
+                        "handle": "security",
+                        "name": "HackerOne",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/000/013/fa942b9b1cbf4faf37482bf68458e1195aab9c02_original.png/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/security",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::ReportBecamePublic",
+                    "latest_disclosable_activity_at": "2026-04-16T12:06:14.574Z",
+                    "submitted_at": "2025-05-30T09:25:03.604Z",
+                    "disclosed": true,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzI4MzAwMDY=",
+                    "_id": "2830006",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjkyNTkyNQ==",
+                        "username": "joejoe5",
+                        "name": "joejoe5",
+                        "__typename": "User"
+                    },
+                    "cve_ids": null,
+                    "cwe": null,
+                    "severity_rating": null,
+                    "upvoted": null,
+                    "public": true,
+                    "report": null,
+                    "votes": 0,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vODE1MzA=",
+                        "handle": "ion",
+                        "name": "ION Group",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/2rtkgsowvvmg53wbg0ktxgiq64ub/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/ion",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::BugResolved",
+                    "latest_disclosable_activity_at": "2026-04-08T14:15:02.737Z",
+                    "submitted_at": "2024-11-08T11:03:10.870Z",
+                    "disclosed": false,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzMyNTc2ODA=",
+                    "_id": "3257680",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjkyNTkyNQ==",
+                        "username": "joejoe5",
+                        "name": "joejoe5",
+                        "__typename": "User"
+                    },
+                    "cve_ids": null,
+                    "cwe": null,
+                    "severity_rating": null,
+                    "upvoted": null,
+                    "public": true,
+                    "report": null,
+                    "votes": 0,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vODI2Mjc=",
+                        "handle": "hpe_vdp",
+                        "name": "HPE VDP",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/xpfimlzyoi1mvkfp9478crwujju8/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/hpe_vdp",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::BugResolved",
+                    "latest_disclosable_activity_at": "2025-09-02T03:13:41.734Z",
+                    "submitted_at": "2025-07-17T13:11:42.616Z",
+                    "disclosed": false,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzMwMDcxODI=",
+                    "_id": "3007182",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjkyNTkyNQ==",
+                        "username": "joejoe5",
+                        "name": "joejoe5",
+                        "__typename": "User"
+                    },
+                    "cve_ids": null,
+                    "cwe": null,
+                    "severity_rating": null,
+                    "upvoted": null,
+                    "public": true,
+                    "report": null,
+                    "votes": 0,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzE2NTk=",
+                        "handle": "grab",
+                        "name": "Grab",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/001/659/d5a2e407a772cb09a7ef57167580acf021c9c407_original.png/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/grab",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::BugResolved",
+                    "latest_disclosable_activity_at": "2025-04-03T07:32:15.826Z",
+                    "submitted_at": "2025-02-22T06:05:04.001Z",
+                    "disclosed": false,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzI5ODk2ODI=",
+                    "_id": "2989682",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjkyNTkyNQ==",
+                        "username": "joejoe5",
+                        "name": "joejoe5",
+                        "__typename": "User"
+                    },
+                    "cve_ids": null,
+                    "cwe": null,
+                    "severity_rating": null,
+                    "upvoted": null,
+                    "public": true,
+                    "report": null,
+                    "votes": 0,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vODE1MzA=",
+                        "handle": "ion",
+                        "name": "ION Group",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/2rtkgsowvvmg53wbg0ktxgiq64ub/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/ion",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::BugResolved",
+                    "latest_disclosable_activity_at": "2025-03-03T21:32:38.845Z",
+                    "submitted_at": "2025-02-12T10:23:12.975Z",
+                    "disclosed": false,
+                    "has_collaboration": false,
+                    "collaborators": []
+                }
+            ]
+        }
+    }
+}

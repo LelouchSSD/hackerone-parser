@@ -1,0 +1,11 @@
+{
+    "data": {
+        "resource": {
+            "url": "https://hackerone.com/pwnpwn",
+            "__typename": "User",
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjU5NzU2Nw==",
+            "username": "pwnpwn"
+        },
+        "me": null
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "data": {
+        "me": null,
+        "search": {
+            "__typename": "SearchResultConnection",
+            "total_count": 2,
+            "nodes": [
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzM2MDE2NTU=",
+                    "_id": "3601655",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNjgwNDkw",
+                        "username": "smlee",
+                        "name": "smlee",
+                        "__typename": "User"
+                    },
+                    "cve_ids": [],
+                    "cwe": null,
+                    "severity_rating": "Low",
+                    "upvoted": null,
+                    "public": true,
+                    "report": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydC8zNjAxNjU1",
+                        "databaseId": "3601655",
+                        "title": "Rails::HTML::Sanitizer.allowed_uri? returns true for entity-encoded control-character-split javascript: URLs",
+                        "substate": "resolved",
+                        "url": "https://hackerone.com/reports/3601655",
+                        "disclosed_at": "2026-04-18T15:27:19.842Z",
+                        "report_generated_content": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydEdlbmVyYXRlZENvbnRlbnQvODY0OQ==",
+                            "hacktivity_summary": "A vulnerability was discovered in the `Rails::HTML::Sanitizer.allowed_uri?` method of the `rails-html-sanitizer` library. The method incorrectly returned `true` for entity-encoded control-character-split `javascript:` URLs, which could lead to potential security issues if the application relied on the method's result to make security decisions.",
+                            "__typename": "ReportGeneratedContent"
+                        },
+                        "__typename": "Report"
+                    },
+                    "votes": 4,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzIy",
+                        "handle": "rails",
+                        "name": "Ruby on Rails",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/000/022/5e2b46658c8b86bed62f574d8e1793f353cbbc63_original.png/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/rails",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::ReportBecamePublic",
+                    "latest_disclosable_activity_at": "2026-04-18T15:27:20.613Z",
+                    "submitted_at": "2026-03-12T22:55:41.277Z",
+                    "disclosed": true,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzY2MzAzNQ==",
+                    "_id": "663035",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNjgwNDkw",
+                        "username": "smlee",
+                        "name": "smlee",
+                        "__typename": "User"
+                    },
+                    "cve_ids": null,
+                    "cwe": null,
+                    "severity_rating": null,
+                    "upvoted": null,
+                    "public": true,
+                    "report": null,
+                    "votes": 1,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzE5ODk=",
+                        "handle": "starbucks",
+                        "name": "Starbucks",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/001/989/c9aa38cf3b1a91daa085d31e23d23f34cd1874df_original./3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/starbucks",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::BugResolved",
+                    "latest_disclosable_activity_at": "2021-09-24T20:03:25.667Z",
+                    "submitted_at": "2019-07-29T16:20:07.475Z",
+                    "disclosed": false,
+                    "has_collaboration": false,
+                    "collaborators": []
+                }
+            ]
+        }
+    }
+}

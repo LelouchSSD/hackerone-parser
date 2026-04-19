@@ -1,0 +1,80 @@
+{
+    "data": {
+        "me": null,
+        "user": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTU2MzMx",
+            "username": "cyberjoker",
+            "name": "Vitaly",
+            "intro": "",
+            "profileActivated": true,
+            "pentester_profile": null,
+            "user_streak": {
+                "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlVzZXJTdHJlYWsvc3RhdGljJTJGc3RhdGljLXVzZXItc3RyZWFrJTJGNCUyRjIwMjUtMTItMDErMDAlM0EwMCUzQTAwK1VUQyUyRjIwMjYtMDMtMDErMDAlM0EwMCUzQTAwK1VUQw==",
+                "length": 4,
+                "start_date": "2025-12-01T00:00:00.000Z",
+                "end_date": "2026-03-01T00:00:00.000Z",
+                "__typename": "UserStreak"
+            },
+            "__typename": "User",
+            "created_at": "2017-04-01T18:55:00.952Z",
+            "location": "",
+            "website": null,
+            "bio": "",
+            "profile_picture": "https://profile-photos.hackerone-user-content.com/variants/m8QAvis1NEdKwiqa3zKinxSk/3d4e754d8a327612276b876b684aac875c3ebdd0031b1c533d290982d3bc8837",
+            "bugcrowd_handle": "",
+            "hack_the_box_handle": "",
+            "github_handle": "",
+            "gitlab_handle": "",
+            "linkedin_handle": "",
+            "twitter_handle": "_CyberJoker_",
+            "cleared": false,
+            "verified": true,
+            "open_for_employment": null,
+            "mark_as_company_on_leaderboards": false,
+            "followed": false,
+            "resolved_report_count": 8,
+            "thanks_items_total_count": 10,
+            "badges": {
+                "edges": [
+                    {
+                        "awarded_at": "2026-04-14T18:48:25.683Z",
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzE4",
+                            "name": "Publish or Perish",
+                            "image_path": "/assets/users/badges/publish-8147952674b82ea0b5b349191e02cd01ad32166b4f1e60c2f82269c29ae308e8.png",
+                            "__typename": "Badge"
+                        },
+                        "__typename": "BadgesUsersEdge"
+                    },
+                    {
+                        "awarded_at": "2026-03-27T00:05:35.644Z",
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzU=",
+                            "name": "Bounty Hunter",
+                            "image_path": "/assets/users/badges/bounty_silver-f07d1d1796dafc2f6fceaf7bb5590ca038667ffdc5f6d057dc81065fd59a3c82.png",
+                            "__typename": "Badge"
+                        },
+                        "__typename": "BadgesUsersEdge"
+                    },
+                    {
+                        "awarded_at": "2026-03-23T12:34:14.000Z",
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzIw",
+                            "name": "Diversity",
+                            "image_path": "/assets/users/badges/diversity_bronze-78a9d49f41832c6ee8c7cadd4857d59579a5680a66c1f2deb1d799cd5621ca1b.png",
+                            "__typename": "Badge"
+                        },
+                        "__typename": "BadgesUsersEdge"
+                    }
+                ],
+                "__typename": "BadgesUsersConnection"
+            },
+            "public_reviews": {
+                "edges": [],
+                "__typename": "HackerReviewsConnection"
+            }
+        },
+        "id_verification": null,
+        "__typename": "Query"
+    }
+}

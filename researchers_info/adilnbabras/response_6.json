@@ -1,0 +1,124 @@
+{
+    "data": {
+        "user": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjE4OTgyNg==",
+            "user_display_options": {
+                "show_private_team_thanks": false,
+                "__typename": "UserDisplayOptions"
+            },
+            "username": "adilnbabras",
+            "thanks_items_total_count": 6,
+            "thanks_items": {
+                "pageInfo": {
+                    "hasNextPage": false,
+                    "endCursor": "NQ",
+                    "__typename": "PageInfo"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMzMyMjM5NDI2",
+                            "rank": 27,
+                            "report_count": 3,
+                            "total_report_count": 5,
+                            "reputation": 76,
+                            "team": {
+                                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzYxMjM2",
+                                "handle": "mozilla",
+                                "name": "Mozilla",
+                                "state": "public_mode",
+                                "url": "https://hackerone.com/mozilla",
+                                "profile_picture": "https://profile-photos.hackerone-user-content.com/variants/0p8e6gg8xoy45dhjxs5wh4iti6k8/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                                "__typename": "Team"
+                            },
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTc0ODIyODkx",
+                            "rank": null,
+                            "report_count": 1,
+                            "total_report_count": 4,
+                            "reputation": 32,
+                            "team": {
+                                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzU4",
+                                "handle": "linkedin",
+                                "name": "LinkedIn",
+                                "state": "public_mode",
+                                "url": "https://hackerone.com/linkedin",
+                                "profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/000/058/3aaa858b18e9807c5c1fea0c559156568a6647cc_original.png/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                                "__typename": "Team"
+                            },
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjMxODM5Mjk5",
+                            "rank": null,
+                            "report_count": 0,
+                            "total_report_count": 2,
+                            "reputation": 32,
+                            "team": {
+                                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzE1NjY=",
+                                "handle": "udemy",
+                                "name": "Udemy",
+                                "state": "public_mode",
+                                "url": "https://hackerone.com/udemy",
+                                "profile_picture": "https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/2nhagtc6ifg2irjlbxo2tyl35qhu/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22android-chrome-512x512.png%22%3B%20filename%2A%3DUTF-8%27%27android-chrome-512x512.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQGK6FURQV277TLFK%2F20260419%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260419T161216Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjED8aCXVzLXdlc3QtMiJHMEUCIEbdjRPNULdxLtOFM3XAMsilvEwdxJRp7I9eQcHw4u9RAiEAzGvgfPCFRLCxIbxl2J0tnGC544T2AAwM7JnvorSEl9QqsQUICBADGgwwMTM2MTkyNzQ4NDkiDO3WDGvkcI%2Bi34n3yyqOBU3sYaDinMoB%2FqDb65ziITP3UfnPSrbvh26pkphtA5u%2By8%2BOC7dzsy5kYQmkOKuVIyDwm2QNMqHzj3aTK1p41ycKKL9MgtsszGUAZf1Yd%2FaqMAVeqLy%2Bh6WyFjezD4GV%2F%2FkDwToHqUKWCV1XZp67lYF59v25bAwC0joCjgkpgeLdHwpe%2FQA1UgMtmCg3AnFns5LrBrvX5b1vaYG7LiWGT2XWX%2FQyLco8Sv5Gg%2BoIqODXZlZLgNvS5pYBOVfhNuVrWAx0gRpLhbFN5L8EA1khOIQEGu5xSm7CkEwdxXEY9Trzo4nB0GN0lHk447A4W9lHDiut%2F5c%2Bp%2BEzHQq%2FeeYRdHiaguIgZ5l0Y8D59l%2BGFMRWSOiP7Yp%2BFClSQDKhhQo9dkGCkfEkjZw5Lj28qOwWSxw1TjsKdQHT4Zy7hrtj0sOltczWGspo0StjKdydcU4IE%2BIuFcguWXFjZUKFrc3gEevVPrFT3G0f1gQ8NsNRErrXs77Z16EDYySZaMKKy5qBQVhBRaYMwVAvFroO6uF2wggLGjFTQx5t1bahx5ff%2FW%2Bf4UJ4%2FwEWAqZXHxpn79P2EWFvi31qH3TetMiy81mvasr20J1EpvzA5vj1xIF1nyOHR9jZoWlwtWsoEvyVR4EVD1pMU9PKTawP6x%2BHegrSVohyE1whv0Y04Utxf1gKAb5WzTwVKfdVcDDapMhes1XdhyKPjKG%2Fp7OH76JwNwAAIAI2owtsOEEavJx4aJ0W%2F5wny29xDD2xBwYpceeJ4BuDT9MaIO3k%2Ff8OA09p1e%2FBk3mYq3u8quy49R0BWH7e8e%2Fx%2B%2F1wGICw1z%2F84g4hW9dauh3Ss1HIYcXByKfTV%2BXi4eSmIRBfVEmi65jY3um%2FNzCc4pPPBjqxAQVuxiTRzu%2BMBfD1Qq1KAPPEIKoOEzQVF4oR3XSNWLeMDMhxyb6pTaPmZ7%2B6n4o0Z7t5MhRBIuKo9sQelyL4FTofbCx4n%2BVxIyYSxz%2Fh9TXEqry9DusXQ58hp3yreeEj76aHSLzzpI8yrzIfPi5glzUto6YjF%2BEHE32GHHLB5h61cInHnJCI%2F56tdWiM%2B%2F0hkv%2FqhD8NC98Lp%2FhwMINWYV9OVpziNRH3rXIZagA7xI1MeA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=cd601ff9788fcea3d665e942534b56db04fecd95cecce6e7594cf2630a9b31f9",
+                                "__typename": "Team"
+                            },
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjMzOTg1ODA5",
+                            "rank": 90,
+                            "report_count": 2,
+                            "total_report_count": 6,
+                            "reputation": 24,
+                            "team": {
+                                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzUwMTY2",
+                                "handle": "freshworks",
+                                "name": "Freshworks ",
+                                "state": "public_mode",
+                                "url": "https://hackerone.com/freshworks",
+                                "profile_picture": "https://profile-photos.hackerone-user-content.com/variants/PKZta3f35ZjEv9S8sWrHK9mv/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                                "__typename": "Team"
+                            },
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMzc4NTA3MTUw",
+                            "rank": null,
+                            "report_count": 1,
+                            "total_report_count": 2,
+                            "reputation": 2,
+                            "team": {
+                                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzM1NzEw",
+                                "handle": "reddit",
+                                "name": "Reddit",
+                                "state": "public_mode",
+                                "url": "https://hackerone.com/reddit",
+                                "profile_picture": "https://profile-photos.hackerone-user-content.com/variants/osci5oey0q0wkiom39bk5onv8p7q/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                                "__typename": "Team"
+                            },
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    }
+                ],
+                "__typename": "ThanksItemConnection"
+            },
+            "__typename": "User"
+        }
+    }
+}

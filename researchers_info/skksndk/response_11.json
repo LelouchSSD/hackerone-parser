@@ -1,0 +1,11 @@
+{
+    "data": {
+        "resource": {
+            "url": "https://hackerone.com/skksndk",
+            "__typename": "User",
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDQzMDc4Mw==",
+            "username": "skksndk"
+        },
+        "me": null
+    }
+}

@@ -1,0 +1,218 @@
+{
+    "data": {
+        "me": null,
+        "search": {
+            "__typename": "SearchResultConnection",
+            "total_count": 5,
+            "nodes": [
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzM2MDgxOTk=",
+                    "_id": "3608199",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDM0NjIxNQ==",
+                        "username": "xavlimsg",
+                        "name": "XavLimSG",
+                        "__typename": "User"
+                    },
+                    "cve_ids": [],
+                    "cwe": "Cross-site Scripting (XSS) - DOM",
+                    "severity_rating": "High",
+                    "upvoted": null,
+                    "public": true,
+                    "report": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydC8zNjA4MTk5",
+                        "databaseId": "3608199",
+                        "title": "DOM XSS in `fizzy.do` import filename preview enables one-click victim account takeover",
+                        "substate": "resolved",
+                        "url": "https://hackerone.com/reports/3608199",
+                        "disclosed_at": "2026-04-14T21:36:22.221Z",
+                        "report_generated_content": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydEdlbmVyYXRlZENvbnRlbnQvODY0NQ==",
+                            "hacktivity_summary": "A DOM XSS vulnerability was discovered in the file import functionality of the Fizzy application. The vulnerability allowed an attacker to craft a malicious filename that, when previewed by the victim user, would inject a second form submission into the import page. This enabled the attacker to perform actions on the victim's account, such as changing the email address, creating a personal access token, and deleting the account, all using the victim's authenticated session.",
+                            "__typename": "ReportGeneratedContent"
+                        },
+                        "__typename": "Report"
+                    },
+                    "votes": 37,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzY3",
+                        "handle": "basecamp",
+                        "name": "Basecamp",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/STtZ2opgRsHdKby72xs56KhB/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/basecamp",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": 500,
+                    "latest_disclosable_action": "Activities::ReportBecamePublic",
+                    "latest_disclosable_activity_at": "2026-04-14T21:36:22.560Z",
+                    "submitted_at": "2026-03-16T13:56:00.066Z",
+                    "disclosed": true,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzM1NDM0NzU=",
+                    "_id": "3543475",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDM0NjIxNQ==",
+                        "username": "xavlimsg",
+                        "name": "XavLimSG",
+                        "__typename": "User"
+                    },
+                    "cve_ids": [],
+                    "cwe": "Improper Access Control - Generic",
+                    "severity_rating": "Low",
+                    "upvoted": null,
+                    "public": true,
+                    "report": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydC8zNTQzNDc1",
+                        "databaseId": "3543475",
+                        "title": "Improper Access Control in `fizzy.do` import flow allows cross-tenant ActionText reference resolution and data disclosure",
+                        "substate": "resolved",
+                        "url": "https://hackerone.com/reports/3543475",
+                        "disclosed_at": "2026-04-14T19:25:39.589Z",
+                        "report_generated_content": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydEdlbmVyYXRlZENvbnRlbnQvODY0NA==",
+                            "hacktivity_summary": "The vulnerability allowed for cross-tenant ActionText reference resolution and data disclosure during the account import flow. The import process did not properly verify the ownership of the referenced records before minting signed global IDs, enabling an attacker to access and disclose data from other accounts.",
+                            "__typename": "ReportGeneratedContent"
+                        },
+                        "__typename": "Report"
+                    },
+                    "votes": 29,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzY3",
+                        "handle": "basecamp",
+                        "name": "Basecamp",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/STtZ2opgRsHdKby72xs56KhB/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/basecamp",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": 218,
+                    "latest_disclosable_action": "Activities::ReportBecamePublic",
+                    "latest_disclosable_activity_at": "2026-04-14T19:25:40.001Z",
+                    "submitted_at": "2026-02-07T15:59:39.638Z",
+                    "disclosed": true,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzM1Nzc0NDc=",
+                    "_id": "3577447",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDM0NjIxNQ==",
+                        "username": "xavlimsg",
+                        "name": "XavLimSG",
+                        "__typename": "User"
+                    },
+                    "cve_ids": null,
+                    "cwe": null,
+                    "severity_rating": null,
+                    "upvoted": null,
+                    "public": true,
+                    "report": null,
+                    "votes": 5,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzgzNTYz",
+                        "handle": "circle-bbp",
+                        "name": "Circle BBP",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/nt5jpjtyt7hkn4jmwhcml7rv4waw/74790fe75ac5dbe8a5140a122388d59ebac913dcfa941f0b3a45e6cad161f9ea",
+                        "url": "https://hackerone.com/circle-bbp",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": 250,
+                    "latest_disclosable_action": "Activities::BountyAwarded",
+                    "latest_disclosable_activity_at": "2026-04-10T18:15:25.372Z",
+                    "submitted_at": "2026-02-27T18:10:44.990Z",
+                    "disclosed": false,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzM1NTk3MTU=",
+                    "_id": "3559715",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDM0NjIxNQ==",
+                        "username": "xavlimsg",
+                        "name": "XavLimSG",
+                        "__typename": "User"
+                    },
+                    "cve_ids": [
+                        "CVE-2026-21711"
+                    ],
+                    "cwe": "Improper Access Control - Generic",
+                    "severity_rating": "Medium",
+                    "upvoted": null,
+                    "public": true,
+                    "report": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydC8zNTU5NzE1",
+                        "databaseId": "3559715",
+                        "title": "Node.js Permission Model bypass: UDS server bind/listen works without `--allow-net`",
+                        "substate": "resolved",
+                        "url": "https://hackerone.com/reports/3559715",
+                        "disclosed_at": "2026-03-30T16:42:22.045Z",
+                        "report_generated_content": null,
+                        "__typename": "Report"
+                    },
+                    "votes": 9,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzIyOTg0",
+                        "handle": "nodejs",
+                        "name": "Node.js",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/022/984/e600648ace4a8553247bce967d461a030aa81d49_original.png/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/nodejs",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::ManuallyDisclosed",
+                    "latest_disclosable_activity_at": "2026-03-30T16:42:21.775Z",
+                    "submitted_at": "2026-02-17T20:39:20.791Z",
+                    "disclosed": true,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzM1ODY4Nzc=",
+                    "_id": "3586877",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDM0NjIxNQ==",
+                        "username": "xavlimsg",
+                        "name": "XavLimSG",
+                        "__typename": "User"
+                    },
+                    "cve_ids": null,
+                    "cwe": null,
+                    "severity_rating": null,
+                    "upvoted": null,
+                    "public": true,
+                    "report": null,
+                    "votes": 2,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzQ5NzMy",
+                        "handle": "8x8-bounty",
+                        "name": "8x8",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/3y22a5r49ryw4d4454msmh3frrgn/74790fe75ac5dbe8a5140a122388d59ebac913dcfa941f0b3a45e6cad161f9ea",
+                        "url": "https://hackerone.com/8x8-bounty",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": 500,
+                    "latest_disclosable_action": "Activities::BugResolved",
+                    "latest_disclosable_activity_at": "2026-03-11T04:31:42.545Z",
+                    "submitted_at": "2026-03-05T12:11:12.544Z",
+                    "disclosed": false,
+                    "has_collaboration": false,
+                    "collaborators": []
+                }
+            ]
+        }
+    }
+}

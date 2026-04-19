@@ -1,0 +1,43 @@
+{
+    "profile": {
+        "username": "killnet-edc",
+        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjUxMDM4OQ==",
+        "url": "https://hackerone.com/killnet-edc"
+    },
+    "memberships": {
+        "total_count": 0
+    },
+    "snapshot": {
+        "reputation": 22,
+        "rank": 2598
+    },
+    "user_stats": {
+        "resolved_report_count": 0,
+        "thanks_items_total_count": 1,
+        "registered_at": "2022-11-19",
+        "bio": "Yet another hacker... ",
+        "handlers": {
+            "twitter": "matured_kazama"
+        },
+        "badges": {
+            "badges_count": 2,
+            "badges_names": [
+                [
+                    "2025-12-04",
+                    "Milestone-program-Level-1"
+                ],
+                [
+                    "2025-09-22",
+                    "A7: Cross-Site Scripting (XSS)"
+                ],
+                [
+                    "2024-09-06",
+                    "A3: Sensitive Data Exposure"
+                ]
+            ]
+        }
+    },
+    "weakness_stats": {
+        "SQL Injection": 1
+    }
+}

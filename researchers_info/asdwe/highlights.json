@@ -1,0 +1,29 @@
+{
+    "profile": {
+        "username": "asdwe",
+        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDQyNzc0MQ==",
+        "url": "https://hackerone.com/asdwe"
+    },
+    "memberships": {
+        "total_count": 0
+    },
+    "snapshot": {
+        "signal": 1.0,
+        "signal_percentile": 32,
+        "reputation": -10,
+        "rank": 21262
+    },
+    "user_stats": {
+        "resolved_report_count": 0,
+        "thanks_items_total_count": 0,
+        "registered_at": "2026-04-14",
+        "handlers": {},
+        "badges": {
+            "badges_count": 0,
+            "badges_names": []
+        }
+    },
+    "weakness_stats": {
+        "Information Exposure Through Sent Data": 1
+    }
+}

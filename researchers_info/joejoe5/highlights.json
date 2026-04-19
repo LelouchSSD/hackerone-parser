@@ -1,0 +1,41 @@
+{
+    "profile": {
+        "username": "joejoe5",
+        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjkyNTkyNQ==",
+        "url": "https://hackerone.com/joejoe5"
+    },
+    "memberships": {
+        "total_count": 0
+    },
+    "snapshot": {
+        "rank": 1941,
+        "reputation": 39
+    },
+    "user_stats": {
+        "resolved_report_count": 11,
+        "thanks_items_total_count": 12,
+        "registered_at": "2023-10-15",
+        "location": "Location",
+        "handlers": {},
+        "badges": {
+            "badges_count": 3,
+            "badges_names": [
+                [
+                    "2026-04-16",
+                    "Publish or Perish"
+                ],
+                [
+                    "2026-04-08",
+                    "Patient"
+                ],
+                [
+                    "2026-02-11",
+                    "Milestone-program-Level-1"
+                ]
+            ]
+        }
+    },
+    "weakness_stats": {
+        "Improper Input Validation": 1
+    }
+}

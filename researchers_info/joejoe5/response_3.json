@@ -1,0 +1,11 @@
+{
+    "data": {
+        "resource": {
+            "url": "https://hackerone.com/joejoe5",
+            "__typename": "User",
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjkyNTkyNQ==",
+            "username": "joejoe5"
+        },
+        "me": null
+    }
+}

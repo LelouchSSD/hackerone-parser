@@ -1,0 +1,34 @@
+{
+    "profile": {
+        "username": "midoussa7",
+        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDQyNjE0Nw==",
+        "url": "https://hackerone.com/midoussa7"
+    },
+    "memberships": {
+        "total_count": 0
+    },
+    "snapshot": {
+        "signal": -5.0,
+        "signal_percentile": 22,
+        "reputation": -25,
+        "rank": 23100
+    },
+    "user_stats": {
+        "resolved_report_count": 0,
+        "thanks_items_total_count": 0,
+        "registered_at": "2026-04-13",
+        "handlers": {},
+        "badges": {
+            "badges_count": 1,
+            "badges_names": [
+                [
+                    "2026-04-13",
+                    "Publish or Perish"
+                ]
+            ]
+        }
+    },
+    "weakness_stats": {
+        "Command Injection - Generic": 1
+    }
+}

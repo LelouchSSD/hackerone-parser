@@ -1,0 +1,116 @@
+{
+    "data": {
+        "user": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjU5NzU2Nw==",
+            "user_display_options": {
+                "show_private_team_thanks": true,
+                "__typename": "UserDisplayOptions"
+            },
+            "username": "pwnpwn",
+            "thanks_items_total_count": 6,
+            "thanks_items": {
+                "pageInfo": {
+                    "hasNextPage": true,
+                    "endCursor": "NQ",
+                    "__typename": "PageInfo"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjIwNjI1MDg5",
+                            "rank": null,
+                            "report_count": 1,
+                            "total_report_count": 3,
+                            "reputation": 17,
+                            "team": null,
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjIwMzc3NTc5",
+                            "rank": null,
+                            "report_count": 1,
+                            "total_report_count": 1,
+                            "reputation": 7,
+                            "team": {
+                                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDUz",
+                                "handle": "informatica",
+                                "name": "Informatica",
+                                "state": "public_mode",
+                                "url": "https://hackerone.com/informatica",
+                                "profile_picture": "https://profile-photos.hackerone-user-content.com/variants/6yxveqohTKjQLQyJm5Xv7Eye/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                                "__typename": "Team"
+                            },
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjIxNDI2ODM0",
+                            "rank": null,
+                            "report_count": 1,
+                            "total_report_count": 2,
+                            "reputation": 7,
+                            "team": {
+                                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNzIwNQ==",
+                                "handle": "gm",
+                                "name": "General Motors",
+                                "state": "public_mode",
+                                "url": "https://hackerone.com/gm",
+                                "profile_picture": "https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/bzxw91najnnhnox8jzyafvfz1ryc/d9695107bfcd68eeb1c9e0912b109cdae9a6c00c0bda6fd4cbd6d9bdb828840a?response-content-disposition=inline%3B%20filename%3D%22GM_Logo.jpg%22%3B%20filename%2A%3DUTF-8%27%27GM_Logo.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQGK6FURQVHQSVX2D%2F20260419%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260419T160956Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjED8aCXVzLXdlc3QtMiJGMEQCIFq0zZ4nyuhh2uyghbDqfAUv7MWZpokMAK76eezGXxVvAiAsPtIE0u4yXvfCEvHTKPTCpPPMPeHTHiIxlShSTkIekyqyBQgIEAMaDDAxMzYxOTI3NDg0OSIMix9J97bap7iXaKnzKo8FYp9YQST3zP0pw%2FTPjCa3Bk6XjXo%2BmlhUCddjLgE5X5wD67fmtgQO7%2B8ol2srZMD1b4BYoK4KI0r2KEebQMO4yxg1wr76TujiuYatzsxtI0xmB4RAYBfR8hl5gjlUlPKLnlg4J4Owy3DwBKZ2EsAHzomArcChZLstHm1QDOquhQ7zV22%2Fkm7%2F91V59nPAP4jqQbqNwmt%2BrKbdwYhxB%2FsIfrNZ4yu%2B9ry%2F6UeuuMnvAtRSCpeH6ZzyheT5JDMOg%2Ba4EMXD%2B1xo%2BxEpWNHeKdg1V0mTzVMGWhh7%2F9Ho9pL9PaBK3MnnUMQIMZrWzakINvQMI%2Fple0g0f4EKFoddNiYRDZMyS8X8a2MRJKOTqdqIUXKQhTku6kCcugHaSLTNgT9K6nAlfe1MIoXoRzHx3WE%2FuZ2Q4VwVIoQ8flPwbhQo5h8Jt5dCG5BNKSVJI1npGeJcnimwNhFokXa5conL1NRy0xR6KlAyp4pd0B6P2RtcZkYz2VTe7Ypj74s%2FaWNT3fvcf7n91JUd3m6JHYsjLsBU7ZXzk0OobjgDkVeuswaV%2FxKSRlDBoSIFBNN%2FCm1uq%2FtT5%2FCP6fC4PySCyd6SJ3UBBW0flOclL0sB%2Biy%2BDG7B6LGzi6mCVB6DBIleWhdlE0xAdry%2BhRwshjGEONDSak9RFf%2FlFc7XD1%2FS54xJ0%2FJ483PqDufXDry4NBLuFYvhgEaJTh%2B%2B2w0yZu6MnY7NqVcSNIyrN06M1w9ZocYQQ34qE77PKeOO7mKAnnZUCYfKk2m6sxFqexDvjLDV92M5ahEzVNSPBYmKzF8NbD3bYF78jKU8a5EbQo2OxT52PP6FCJXWv2IlIRygjd7FE5DenvTIAmEOY8bqnYGfcF2QKG1VrTC%2F1JPPBjqyATIGlwGPkumekeajOJHxNStglOUAuIT0kgt%2FTnbguhF%2FL2X%2BGULYjodI3xctXFaXvQtHPh1hyHA%2Bw%2BxU5YbVwswfPhYVk65IdWGugaILpSV0Xx9Fm9c91hGR7OtbY3tif1zotAcbxVYNm38RyDjzoYuEegO7xxsk09xtHW%2FK5K6ugk9BD9lJFyjn75uHya27TB0KMGdBfmRzC4nbC4UHRrf8Mv2TSnT06KXND4fcrCJoQww%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=4b5e411c556382ae0a677aa4082917804796891e278fe7882564ce148382a797",
+                                "__typename": "Team"
+                            },
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjI0MjQxOTMz",
+                            "rank": null,
+                            "report_count": 1,
+                            "total_report_count": 3,
+                            "reputation": 7,
+                            "team": {
+                                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzM0Nw==",
+                                "handle": "adobe",
+                                "name": "Adobe",
+                                "state": "public_mode",
+                                "url": "https://hackerone.com/adobe",
+                                "profile_picture": "https://profile-photos.hackerone-user-content.com/variants/qtwRFSzn2th8Rz52AH2RfhZd/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                                "__typename": "Team"
+                            },
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjIwMTEwOTA3",
+                            "rank": null,
+                            "report_count": 0,
+                            "total_report_count": 3,
+                            "reputation": 0,
+                            "team": {
+                                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTE4MTU=",
+                                "handle": "glovo",
+                                "name": "Glovo",
+                                "state": "public_mode",
+                                "url": "https://hackerone.com/glovo",
+                                "profile_picture": "https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/xzro4qg464b4eqxow8hawky7y5ke/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22logo.png%22%3B%20filename%2A%3DUTF-8%27%27logo.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQGK6FURQVHQSVX2D%2F20260419%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260419T160956Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjED8aCXVzLXdlc3QtMiJGMEQCIFq0zZ4nyuhh2uyghbDqfAUv7MWZpokMAK76eezGXxVvAiAsPtIE0u4yXvfCEvHTKPTCpPPMPeHTHiIxlShSTkIekyqyBQgIEAMaDDAxMzYxOTI3NDg0OSIMix9J97bap7iXaKnzKo8FYp9YQST3zP0pw%2FTPjCa3Bk6XjXo%2BmlhUCddjLgE5X5wD67fmtgQO7%2B8ol2srZMD1b4BYoK4KI0r2KEebQMO4yxg1wr76TujiuYatzsxtI0xmB4RAYBfR8hl5gjlUlPKLnlg4J4Owy3DwBKZ2EsAHzomArcChZLstHm1QDOquhQ7zV22%2Fkm7%2F91V59nPAP4jqQbqNwmt%2BrKbdwYhxB%2FsIfrNZ4yu%2B9ry%2F6UeuuMnvAtRSCpeH6ZzyheT5JDMOg%2Ba4EMXD%2B1xo%2BxEpWNHeKdg1V0mTzVMGWhh7%2F9Ho9pL9PaBK3MnnUMQIMZrWzakINvQMI%2Fple0g0f4EKFoddNiYRDZMyS8X8a2MRJKOTqdqIUXKQhTku6kCcugHaSLTNgT9K6nAlfe1MIoXoRzHx3WE%2FuZ2Q4VwVIoQ8flPwbhQo5h8Jt5dCG5BNKSVJI1npGeJcnimwNhFokXa5conL1NRy0xR6KlAyp4pd0B6P2RtcZkYz2VTe7Ypj74s%2FaWNT3fvcf7n91JUd3m6JHYsjLsBU7ZXzk0OobjgDkVeuswaV%2FxKSRlDBoSIFBNN%2FCm1uq%2FtT5%2FCP6fC4PySCyd6SJ3UBBW0flOclL0sB%2Biy%2BDG7B6LGzi6mCVB6DBIleWhdlE0xAdry%2BhRwshjGEONDSak9RFf%2FlFc7XD1%2FS54xJ0%2FJ483PqDufXDry4NBLuFYvhgEaJTh%2B%2B2w0yZu6MnY7NqVcSNIyrN06M1w9ZocYQQ34qE77PKeOO7mKAnnZUCYfKk2m6sxFqexDvjLDV92M5ahEzVNSPBYmKzF8NbD3bYF78jKU8a5EbQo2OxT52PP6FCJXWv2IlIRygjd7FE5DenvTIAmEOY8bqnYGfcF2QKG1VrTC%2F1JPPBjqyATIGlwGPkumekeajOJHxNStglOUAuIT0kgt%2FTnbguhF%2FL2X%2BGULYjodI3xctXFaXvQtHPh1hyHA%2Bw%2BxU5YbVwswfPhYVk65IdWGugaILpSV0Xx9Fm9c91hGR7OtbY3tif1zotAcbxVYNm38RyDjzoYuEegO7xxsk09xtHW%2FK5K6ugk9BD9lJFyjn75uHya27TB0KMGdBfmRzC4nbC4UHRrf8Mv2TSnT06KXND4fcrCJoQww%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=82c1975668cae46dbb7980172585f67f2a7367be34483788419182a8a3c191c2",
+                                "__typename": "Team"
+                            },
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    }
+                ],
+                "__typename": "ThanksItemConnection"
+            },
+            "__typename": "User"
+        }
+    }
+}

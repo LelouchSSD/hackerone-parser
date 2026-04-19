@@ -1,0 +1,11 @@
+{
+    "data": {
+        "resource": {
+            "url": "https://hackerone.com/hellokbit",
+            "__typename": "User",
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDAxOTExNQ==",
+            "username": "hellokbit"
+        },
+        "me": null
+    }
+}

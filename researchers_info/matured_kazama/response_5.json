@@ -1,0 +1,233 @@
+{
+    "data": {
+        "me": null,
+        "search": {
+            "__typename": "SearchResultConnection",
+            "total_count": 37,
+            "nodes": [
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzM0MjM5NTA=",
+                    "_id": "3423950",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTU3MjE4OA==",
+                        "username": "matured_kazama",
+                        "name": "Nishant",
+                        "__typename": "User"
+                    },
+                    "cve_ids": [],
+                    "cwe": "Cross-site Scripting (XSS) - Stored",
+                    "severity_rating": "High",
+                    "upvoted": null,
+                    "public": true,
+                    "report": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydC8zNDIzOTUw",
+                        "databaseId": "3423950",
+                        "title": "[Variation of #3321406] YetAnother 1-Click Chaining of Self-XSS, Cookie Tossing and AntiCSRF Token Prediction leads to auto approval in AccessTempAuth",
+                        "substate": "resolved",
+                        "url": "https://hackerone.com/reports/3423950",
+                        "disclosed_at": "2026-04-14T05:54:53.246Z",
+                        "report_generated_content": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydEdlbmVyYXRlZENvbnRlbnQvODY0Mw==",
+                            "hacktivity_summary": "A vulnerability in Cloudflare Access involving the Browser Isolation email field was discovered, which could allow for unauthorized approvals within the Temporary Auth workflow. The issue has been fully remediated.",
+                            "__typename": "ReportGeneratedContent"
+                        },
+                        "__typename": "Report"
+                    },
+                    "votes": 45,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzQx",
+                        "handle": "cloudflare",
+                        "name": "Cloudflare Public Bug Bounty",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/000/041/a819f0d518a4854df667be26210167805f38a6a4_original.png/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/cloudflare",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::ReportBecamePublic",
+                    "latest_disclosable_activity_at": "2026-04-14T05:54:53.374Z",
+                    "submitted_at": "2025-11-12T22:46:24.982Z",
+                    "disclosed": true,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzMzMjE0MDY=",
+                    "_id": "3321406",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTU3MjE4OA==",
+                        "username": "matured_kazama",
+                        "name": "Nishant",
+                        "__typename": "User"
+                    },
+                    "cve_ids": [],
+                    "cwe": null,
+                    "severity_rating": "High",
+                    "upvoted": null,
+                    "public": true,
+                    "report": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydC8zMzIxNDA2",
+                        "databaseId": "3321406",
+                        "title": "[Variation of #1554049] 1-Click Chaining of Self-XSS, Cookie Tossing and AntiCSRF Token Prediction leads to auto approval in Access Temp Auth",
+                        "substate": "resolved",
+                        "url": "https://hackerone.com/reports/3321406",
+                        "disclosed_at": "2026-04-14T05:53:46.690Z",
+                        "report_generated_content": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydEdlbmVyYXRlZENvbnRlbnQvODY0Mg==",
+                            "hacktivity_summary": "A vulnerability was discovered in Cloudflare Access that could allow for unauthorized approvals within the Temporary Auth workflow. The issue was resolved after the researcher reported it to Cloudflare.",
+                            "__typename": "ReportGeneratedContent"
+                        },
+                        "__typename": "Report"
+                    },
+                    "votes": 27,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzQx",
+                        "handle": "cloudflare",
+                        "name": "Cloudflare Public Bug Bounty",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/000/041/a819f0d518a4854df667be26210167805f38a6a4_original.png/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/cloudflare",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::ReportBecamePublic",
+                    "latest_disclosable_activity_at": "2026-04-14T05:53:47.085Z",
+                    "submitted_at": "2025-08-31T05:16:07.810Z",
+                    "disclosed": true,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzM0MjQ5OTg=",
+                    "_id": "3424998",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTU3MjE4OA==",
+                        "username": "matured_kazama",
+                        "name": "Nishant",
+                        "__typename": "User"
+                    },
+                    "cve_ids": [],
+                    "cwe": "Cross-site Scripting (XSS) - Reflected",
+                    "severity_rating": "Low",
+                    "upvoted": null,
+                    "public": true,
+                    "report": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydC8zNDI0OTk4",
+                        "databaseId": "3424998",
+                        "title": "AI Playground XSS to steal user-chat messages and access to connected MCP Server",
+                        "substate": "resolved",
+                        "url": "https://hackerone.com/reports/3424998",
+                        "disclosed_at": "2026-02-26T18:56:53.331Z",
+                        "report_generated_content": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydEdlbmVyYXRlZENvbnRlbnQvODU5MA==",
+                            "hacktivity_summary": "A reflected XSS vulnerability was discovered in the AI Playground OAuth handler due to unescaped interpolation of the error_description parameter into a script tag. The issue has been patched, and users of the open-source Agents SDK should upgrade to v0.3.10.",
+                            "__typename": "ReportGeneratedContent"
+                        },
+                        "__typename": "Report"
+                    },
+                    "votes": 52,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzQx",
+                        "handle": "cloudflare",
+                        "name": "Cloudflare Public Bug Bounty",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/000/041/a819f0d518a4854df667be26210167805f38a6a4_original.png/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/cloudflare",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::ReportBecamePublic",
+                    "latest_disclosable_activity_at": "2026-02-26T18:56:53.943Z",
+                    "submitted_at": "2025-11-13T22:29:19.704Z",
+                    "disclosed": true,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzMzMTY5MTA=",
+                    "_id": "3316910",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTU3MjE4OA==",
+                        "username": "matured_kazama",
+                        "name": "Nishant",
+                        "__typename": "User"
+                    },
+                    "cve_ids": [],
+                    "cwe": "Cross-site Scripting (XSS) - Stored",
+                    "severity_rating": "Low",
+                    "upvoted": null,
+                    "public": true,
+                    "report": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydC8zMzE2OTEw",
+                        "databaseId": "3316910",
+                        "title": "Second-Order XSS via javascript protocol in MCP Server Portal Apps leads to ATO",
+                        "substate": "resolved",
+                        "url": "https://hackerone.com/reports/3316910",
+                        "disclosed_at": "2025-12-16T09:47:20.124Z",
+                        "report_generated_content": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydEdlbmVyYXRlZENvbnRlbnQvODQ1OA==",
+                            "hacktivity_summary": "The vulnerability in the MCP Server Portal Apps was caused by missing sanitization of the redirect_uri parameter, leading to a second-order XSS vulnerability. An attacker could craft a malicious redirect_uri containing JavaScript code, obtain a client_id for this URI, and reuse it when a victim had an active session on the /authorize endpoint to execute arbitrary JavaScript.",
+                            "__typename": "ReportGeneratedContent"
+                        },
+                        "__typename": "Report"
+                    },
+                    "votes": 46,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzQx",
+                        "handle": "cloudflare",
+                        "name": "Cloudflare Public Bug Bounty",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/000/041/a819f0d518a4854df667be26210167805f38a6a4_original.png/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/cloudflare",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::ReportBecamePublic",
+                    "latest_disclosable_activity_at": "2025-12-16T09:47:20.306Z",
+                    "submitted_at": "2025-08-27T13:26:30.680Z",
+                    "disclosed": true,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzIyMzU5NDY=",
+                    "_id": "2235946",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTU3MjE4OA==",
+                        "username": "matured_kazama",
+                        "name": "Nishant",
+                        "__typename": "User"
+                    },
+                    "cve_ids": null,
+                    "cwe": null,
+                    "severity_rating": null,
+                    "upvoted": null,
+                    "public": true,
+                    "report": null,
+                    "votes": 0,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzQx",
+                        "handle": "cloudflare",
+                        "name": "Cloudflare Public Bug Bounty",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/000/041/a819f0d518a4854df667be26210167805f38a6a4_original.png/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/cloudflare",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::BugResolved",
+                    "latest_disclosable_activity_at": "2025-11-14T00:10:25.203Z",
+                    "submitted_at": "2023-11-01T19:47:51.721Z",
+                    "disclosed": false,
+                    "has_collaboration": false,
+                    "collaborators": []
+                }
+            ]
+        }
+    }
+}

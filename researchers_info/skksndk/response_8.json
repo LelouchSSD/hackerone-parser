@@ -1,0 +1,18 @@
+{
+    "data": {
+        "user": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDQzMDc4Mw==",
+            "statistics_snapshot": {
+                "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXJTdGF0aXN0aWNzU25hcHNob3QvMTc5MzMyMTY3",
+                "signal": null,
+                "signal_percentile": null,
+                "impact": null,
+                "impact_percentile": null,
+                "reputation": 0,
+                "rank": 6144,
+                "__typename": "UserStatisticsSnapshot"
+            },
+            "__typename": "User"
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "data": {
+        "user": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTU2MzMx",
+            "user_display_options": {
+                "show_private_team_thanks": true,
+                "__typename": "UserDisplayOptions"
+            },
+            "username": "cyberjoker",
+            "thanks_items_total_count": 10,
+            "thanks_items": {
+                "pageInfo": {
+                    "hasNextPage": true,
+                    "endCursor": "NQ",
+                    "__typename": "PageInfo"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vNDI0MjkyMjk1",
+                            "rank": 24,
+                            "report_count": 1,
+                            "total_report_count": 3,
+                            "reputation": 79,
+                            "team": {
+                                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzU1OTUx",
+                                "handle": "mongodb",
+                                "name": "MongoDB",
+                                "state": "public_mode",
+                                "url": "https://hackerone.com/mongodb",
+                                "profile_picture": "https://profile-photos.hackerone-user-content.com/variants/114gp40r6lm34r7751r63022q5ot/d9695107bfcd68eeb1c9e0912b109cdae9a6c00c0bda6fd4cbd6d9bdb828840a",
+                                "__typename": "Team"
+                            },
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vNDQ5NTc1NzAx",
+                            "rank": 25,
+                            "report_count": 0,
+                            "total_report_count": 1,
+                            "reputation": 68,
+                            "team": null,
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vNDAwMzk5OTI2",
+                            "rank": 52,
+                            "report_count": 2,
+                            "total_report_count": 4,
+                            "reputation": 61,
+                            "team": {
+                                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzEzMjkx",
+                                "handle": "nextcloud",
+                                "name": "Nextcloud",
+                                "state": "public_mode",
+                                "url": "https://hackerone.com/nextcloud",
+                                "profile_picture": "https://profile-photos.hackerone-user-content.com/variants/hsgut1vi1cv8housqai9cm9383yx/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                                "__typename": "Team"
+                            },
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vNDM5MzkyNDQy",
+                            "rank": 18,
+                            "report_count": 2,
+                            "total_report_count": 5,
+                            "reputation": 44,
+                            "team": {
+                                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzEwMzgzMQ==",
+                                "handle": "vercel-open-source",
+                                "name": "Vercel Open Source",
+                                "state": "public_mode",
+                                "url": "https://hackerone.com/vercel-open-source",
+                                "profile_picture": "https://profile-photos.hackerone-user-content.com/variants/js15zbfhilidjv71r0fnb12kckzw/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                                "__typename": "Team"
+                            },
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vNDI2MzQ1OTU3",
+                            "rank": 73,
+                            "report_count": 1,
+                            "total_report_count": 4,
+                            "reputation": 29,
+                            "team": {
+                                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzU1",
+                                "handle": "wordpress",
+                                "name": "WordPress",
+                                "state": "public_mode",
+                                "url": "https://hackerone.com/wordpress",
+                                "profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/000/055/f114d1d31f904e3b903cd99a6cf566bb531f8401_original.jpg/d9695107bfcd68eeb1c9e0912b109cdae9a6c00c0bda6fd4cbd6d9bdb828840a",
+                                "__typename": "Team"
+                            },
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    }
+                ],
+                "__typename": "ThanksItemConnection"
+            },
+            "__typename": "User"
+        }
+    }
+}

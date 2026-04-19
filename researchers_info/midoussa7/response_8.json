@@ -1,0 +1,54 @@
+{
+    "data": {
+        "me": null,
+        "search": {
+            "__typename": "SearchResultConnection",
+            "total_count": 1,
+            "nodes": [
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzM2NjkzMDU=",
+                    "_id": "3669305",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDQyNjE0Nw==",
+                        "username": "midoussa7",
+                        "name": "Midoussa7",
+                        "__typename": "User"
+                    },
+                    "cve_ids": [],
+                    "cwe": "Command Injection - Generic",
+                    "severity_rating": "Critical",
+                    "upvoted": null,
+                    "public": true,
+                    "report": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydC8zNjY5MzA1",
+                        "databaseId": "3669305",
+                        "title": "Argument Injection via curl Short-Flag Grouping",
+                        "substate": "not-applicable",
+                        "url": "https://hackerone.com/reports/3669305",
+                        "disclosed_at": "2026-04-13T07:10:29.935Z",
+                        "report_generated_content": null,
+                        "__typename": "Report"
+                    },
+                    "votes": 18,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzM1NjYz",
+                        "handle": "curl",
+                        "name": "curl",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/curl",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::ReportBecamePublic",
+                    "latest_disclosable_activity_at": "2026-04-13T07:10:30.411Z",
+                    "submitted_at": "2026-04-13T05:18:05.407Z",
+                    "disclosed": true,
+                    "has_collaboration": false,
+                    "collaborators": []
+                }
+            ]
+        }
+    }
+}

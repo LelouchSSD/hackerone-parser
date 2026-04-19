@@ -1,0 +1,80 @@
+{
+    "data": {
+        "me": null,
+        "user": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDM5NjIyMw==",
+            "username": "mousepadkalilinux12",
+            "name": "kali linux",
+            "intro": "",
+            "profileActivated": true,
+            "pentester_profile": null,
+            "user_streak": {
+                "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlVzZXJTdHJlYWsvc3RhdGljJTJGc3RhdGljLXVzZXItc3RyZWFrJTJGMSUyRjIwMjYtMDQtMDErMDAlM0EwMCUzQTAwK1VUQyUyRjIwMjYtMDQtMDErMDAlM0EwMCUzQTAwK1VUQw==",
+                "length": 1,
+                "start_date": "2026-04-01T00:00:00.000Z",
+                "end_date": "2026-04-01T00:00:00.000Z",
+                "__typename": "UserStreak"
+            },
+            "__typename": "User",
+            "created_at": "2026-03-23T05:06:45.896Z",
+            "location": "",
+            "website": null,
+            "bio": "",
+            "profile_picture": "/assets/avatars/default-14ffa99f59cd01423c64904352cc130ffcb6a802eadfd11777a54485749e60f2.png",
+            "bugcrowd_handle": "",
+            "hack_the_box_handle": "",
+            "github_handle": "ebаy.com",
+            "gitlab_handle": "",
+            "linkedin_handle": "",
+            "twitter_handle": "",
+            "cleared": false,
+            "verified": true,
+            "open_for_employment": null,
+            "mark_as_company_on_leaderboards": false,
+            "followed": false,
+            "resolved_report_count": 1,
+            "thanks_items_total_count": 1,
+            "badges": {
+                "edges": [
+                    {
+                        "awarded_at": "2026-04-14T14:48:21.821Z",
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzc=",
+                            "name": "TrailBlazer",
+                            "image_path": "/assets/users/badges/trendsetter-0b360002175f1fc3be1eb843f4b10a09c8e14b31d73e1f3c4dc97b10ece70ade.png",
+                            "__typename": "Badge"
+                        },
+                        "__typename": "BadgesUsersEdge"
+                    },
+                    {
+                        "awarded_at": "2026-04-13T19:59:27.059Z",
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzE4",
+                            "name": "Publish or Perish",
+                            "image_path": "/assets/users/badges/publish-8147952674b82ea0b5b349191e02cd01ad32166b4f1e60c2f82269c29ae308e8.png",
+                            "__typename": "Badge"
+                        },
+                        "__typename": "BadgesUsersEdge"
+                    },
+                    {
+                        "awarded_at": "2026-04-13T16:54:40.643Z",
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzE=",
+                            "name": "Insecticide",
+                            "image_path": "/assets/users/badges/resolved_bronze-532a63c67f1f1f72de0d77a30606a972dd732a50b34f52ef8da190d8ac1666f5.png",
+                            "__typename": "Badge"
+                        },
+                        "__typename": "BadgesUsersEdge"
+                    }
+                ],
+                "__typename": "BadgesUsersConnection"
+            },
+            "public_reviews": {
+                "edges": [],
+                "__typename": "HackerReviewsConnection"
+            }
+        },
+        "id_verification": null,
+        "__typename": "Query"
+    }
+}

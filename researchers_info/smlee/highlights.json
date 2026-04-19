@@ -1,0 +1,42 @@
+{
+    "profile": {
+        "username": "smlee",
+        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNjgwNDkw",
+        "url": "https://hackerone.com/smlee"
+    },
+    "memberships": {
+        "total_count": 0
+    },
+    "snapshot": {
+        "signal": 1.0,
+        "signal_percentile": 32,
+        "reputation": 10,
+        "rank": 3622
+    },
+    "user_stats": {
+        "resolved_report_count": 2,
+        "thanks_items_total_count": 4,
+        "registered_at": "2019-07-18",
+        "location": "republic of korea",
+        "website": "https://smlee.io",
+        "handlers": {},
+        "badges": {
+            "badges_count": 3,
+            "badges_names": [
+                [
+                    "2026-04-18",
+                    "Publish or Perish"
+                ],
+                [
+                    "2026-04-08",
+                    "Milestone-program-Level-1"
+                ],
+                [
+                    "2021-09-24",
+                    "Insecticide"
+                ]
+            ]
+        }
+    },
+    "weakness_stats": {}
+}

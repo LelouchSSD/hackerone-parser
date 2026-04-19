@@ -1,0 +1,44 @@
+{
+    "profile": {
+        "username": "matured_kazama",
+        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTU3MjE4OA==",
+        "url": "https://hackerone.com/matured_kazama"
+    },
+    "memberships": {
+        "total_count": 0
+    },
+    "snapshot": {
+        "reputation": 61,
+        "rank": 1473
+    },
+    "user_stats": {
+        "resolved_report_count": 42,
+        "thanks_items_total_count": 2,
+        "registered_at": "2021-03-07",
+        "bio": "Yet another hacker... ",
+        "handlers": {
+            "twitter": "matured_kazama"
+        },
+        "badges": {
+            "badges_count": 3,
+            "badges_names": [
+                [
+                    "2025-12-04",
+                    "Milestone-program-Level-1"
+                ],
+                [
+                    "2025-09-22",
+                    "A7: Cross-Site Scripting (XSS)"
+                ],
+                [
+                    "2024-09-06",
+                    "A3: Sensitive Data Exposure"
+                ]
+            ]
+        }
+    },
+    "weakness_stats": {
+        "Cross-site Scripting (XSS) - Stored": 2,
+        "Cross-site Scripting (XSS) - Reflected": 1
+    }
+}

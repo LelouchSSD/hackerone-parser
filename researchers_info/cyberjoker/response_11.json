@@ -1,0 +1,11 @@
+{
+    "data": {
+        "resource": {
+            "url": "https://hackerone.com/cyberjoker",
+            "__typename": "User",
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTU2MzMx",
+            "username": "cyberjoker"
+        },
+        "me": null
+    }
+}

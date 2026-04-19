@@ -1,0 +1,614 @@
+{
+    "data": {
+        "organizations_admin": {
+            "total_count": 0,
+            "__typename": "OrganizationConnection"
+        },
+        "features": {
+            "edges": [
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvOTg3",
+                        "key": "asset-placeholder-documentation",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvOTkz",
+                        "key": "pentest-scoping-back-to-draft",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTA3Mw==",
+                        "key": "hacker-invitations-api",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvOTk2",
+                        "key": "analytics-use-materialized-views",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTA5MQ==",
+                        "key": "priority-agentic-mode",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTAwMQ==",
+                        "key": "hai-prompt-caching",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvOTc4",
+                        "key": "hai-return-on-mitigation",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvOTY4",
+                        "key": "pentest-clickthrough-agreements",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvOTg1",
+                        "key": "external-automations",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTA0Nw==",
+                        "key": "verification-save-risk-labels",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvOTk0",
+                        "key": "write-ups-markdown-engine-kramdown",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTAyNw==",
+                        "key": "bounty-informed-pentest",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvOTc1",
+                        "key": "hai-report-insights",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvOTkx",
+                        "key": "stripe-payment-intents",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvOTg5",
+                        "key": "embedded-form-version-2",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTEzMg==",
+                        "key": "weakness-classification-agent-v2",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTA0NQ==",
+                        "key": "enable-2fa-with-security-keys",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTA1Mg==",
+                        "key": "idv-risk-label-notifications",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTA0MA==",
+                        "key": "triage-intake-dupe-recommendations",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTEwMw==",
+                        "key": "report-assistant-v2",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTA0Mg==",
+                        "key": "bounty-informed-pentest-mailing",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTExMA==",
+                        "key": "convert-payout-access-bans",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTA5OA==",
+                        "key": "agent-auto-routing",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTA2Ng==",
+                        "key": "clear-idv-expired-user-removal",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTA5Ng==",
+                        "key": "report-assistant-on-anthropic-api",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTA4NA==",
+                        "key": "spend-by-asset-category",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTE0OA==",
+                        "key": "hai-intake-job-rate-limit-boost",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTAyNQ==",
+                        "key": "hai-rom-tool",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTEyNQ==",
+                        "key": "agentic-automatic-intake",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTA0OA==",
+                        "key": "verification-updated-support-app",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTA0Mw==",
+                        "key": "slack-migration",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTA1OQ==",
+                        "key": "dedupe-action-recommendations",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTA2Mw==",
+                        "key": "intake-agent-asset-ownership-enabled",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTAzNg==",
+                        "key": "report-assistant-agent-eligible-programs",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTAyMA==",
+                        "key": "hai-for-hackers",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvODIw",
+                        "key": "inbox-mediation-summary",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTE1NQ==",
+                        "key": "experimental-exploit-agent",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTE1NA==",
+                        "key": "triage-api-webhooks",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTE2Mw==",
+                        "key": "shadow-agentcore-vulnerability-assessment",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTE2NA==",
+                        "key": "shadow-agentcore-duplicate-detection",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTE2NQ==",
+                        "key": "shadow-agentcore-scope-check",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTE2Ng==",
+                        "key": "shadow-agentcore-weakness-classification",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTE2Nw==",
+                        "key": "shadow-agentcore-severity",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvMTE2OQ==",
+                        "key": "churn-rejected-entry-vdp-teams",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvNzgx",
+                        "key": "es-notifications",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvODMw",
+                        "key": "program-request-integrations",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvNzk2",
+                        "key": "hai",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvODk3",
+                        "key": "clear-voucher",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvOTAw",
+                        "key": "auto-accept-product-entitlements",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                },
+                {
+                    "node": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0ZlYXR1cmUvODU4",
+                        "key": "pentest-csa-customer-self-setup",
+                        "enabled": true,
+                        "disabled": false,
+                        "global": true,
+                        "opted_in": false,
+                        "__typename": "Feature"
+                    },
+                    "__typename": "FeatureEdge"
+                }
+            ],
+            "__typename": "FeatureConnection"
+        },
+        "me": null
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "data": {
+        "me": null,
+        "search": {
+            "__typename": "SearchResultConnection",
+            "total_count": 2,
+            "nodes": [
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzM2NTgwNDk=",
+                    "_id": "3658049",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTE2ODIyMw==",
+                        "username": "adityasunny_06",
+                        "name": "aditya  sunny",
+                        "__typename": "User"
+                    },
+                    "cve_ids": [],
+                    "cwe": null,
+                    "severity_rating": "Medium",
+                    "upvoted": null,
+                    "public": true,
+                    "report": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydC8zNjU4MDQ5",
+                        "databaseId": "3658049",
+                        "title": "libcurl: Integer truncation in curl_easy_ssls_import() causes TLS sessions to never expire",
+                        "substate": "not-applicable",
+                        "url": "https://hackerone.com/reports/3658049",
+                        "disclosed_at": "2026-04-09T05:49:38.106Z",
+                        "report_generated_content": null,
+                        "__typename": "Report"
+                    },
+                    "votes": 23,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzM1NjYz",
+                        "handle": "curl",
+                        "name": "curl",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/curl",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::ManuallyDisclosed",
+                    "latest_disclosable_activity_at": "2026-04-09T05:49:37.746Z",
+                    "submitted_at": "2026-04-08T13:18:59.531Z",
+                    "disclosed": true,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzM0Njc5NzU=",
+                    "_id": "3467975",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTE2ODIyMw==",
+                        "username": "adityasunny_06",
+                        "name": "aditya  sunny",
+                        "__typename": "User"
+                    },
+                    "cve_ids": null,
+                    "cwe": null,
+                    "severity_rating": null,
+                    "upvoted": null,
+                    "public": true,
+                    "report": null,
+                    "votes": 1,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNTgyNDY=",
+                        "handle": "abb",
+                        "name": "ABB Information Systems Ltd",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/ls1kgh3p5tiewln5k3c40etwhxuc/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/abb",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::BugResolved",
+                    "latest_disclosable_activity_at": "2026-03-17T06:12:33.796Z",
+                    "submitted_at": "2025-12-16T18:13:03.166Z",
+                    "disclosed": false,
+                    "has_collaboration": false,
+                    "collaborators": []
+                }
+            ]
+        }
+    }
+}

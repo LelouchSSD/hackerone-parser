@@ -1,0 +1,80 @@
+{
+    "data": {
+        "me": null,
+        "user": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjU5NzU2Nw==",
+            "username": "pwnpwn",
+            "name": "<math><mtext><table><mglyph><style><![CDATA[</style><img title=\"]]&gt;&lt;/",
+            "intro": "",
+            "profileActivated": true,
+            "pentester_profile": null,
+            "user_streak": {
+                "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlVzZXJTdHJlYWsvc3RhdGljJTJGc3RhdGljLXVzZXItc3RyZWFrJTJGMyUyRjIwMjMtMDUtMDErMDAlM0EwMCUzQTAwK1VUQyUyRjIwMjMtMDctMDErMDAlM0EwMCUzQTAwK1VUQw==",
+                "length": 3,
+                "start_date": "2023-05-01T00:00:00.000Z",
+                "end_date": "2023-07-01T00:00:00.000Z",
+                "__typename": "UserStreak"
+            },
+            "__typename": "User",
+            "created_at": "2023-02-20T10:13:29.458Z",
+            "location": "",
+            "website": null,
+            "bio": "<math><mtext><table><mglyph><style><![CDATA[</style><img title=\"]]&gt;&lt;/mglyph&gt;&lt;img&Tab;src=1&Tab;onerror=alert(1)&gt;\">@2@\"{@+@\"@@+@}{@@\"@+@\"@\"@+@?#{33\\33",
+            "profile_picture": "/assets/avatars/default-14ffa99f59cd01423c64904352cc130ffcb6a802eadfd11777a54485749e60f2.png",
+            "bugcrowd_handle": "",
+            "hack_the_box_handle": "",
+            "github_handle": "",
+            "gitlab_handle": "",
+            "linkedin_handle": "",
+            "twitter_handle": "",
+            "cleared": false,
+            "verified": false,
+            "open_for_employment": null,
+            "mark_as_company_on_leaderboards": false,
+            "followed": false,
+            "resolved_report_count": 4,
+            "thanks_items_total_count": 6,
+            "badges": {
+                "edges": [
+                    {
+                        "awarded_at": "2024-02-02T16:33:26.840Z",
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzg=",
+                            "name": "Patient",
+                            "image_path": "/assets/users/badges/time-3e4e936e954294d2b6b9f5685124f61d66172b320e10df777523804752819300.png",
+                            "__typename": "Badge"
+                        },
+                        "__typename": "BadgesUsersEdge"
+                    },
+                    {
+                        "awarded_at": "2024-02-02T16:33:26.840Z",
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzMx",
+                            "name": "Greybeard",
+                            "image_path": "/assets/users/badges/greybeard_bronze-a71fdd2282c16c6229d593d961e78b1e0c728ef79e3f97bc14f01b24ea952788.png",
+                            "__typename": "Badge"
+                        },
+                        "__typename": "BadgesUsersEdge"
+                    },
+                    {
+                        "awarded_at": "2023-10-26T16:42:24.645Z",
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzc=",
+                            "name": "TrailBlazer",
+                            "image_path": "/assets/users/badges/trendsetter-0b360002175f1fc3be1eb843f4b10a09c8e14b31d73e1f3c4dc97b10ece70ade.png",
+                            "__typename": "Badge"
+                        },
+                        "__typename": "BadgesUsersEdge"
+                    }
+                ],
+                "__typename": "BadgesUsersConnection"
+            },
+            "public_reviews": {
+                "edges": [],
+                "__typename": "HackerReviewsConnection"
+            }
+        },
+        "id_verification": null,
+        "__typename": "Query"
+    }
+}

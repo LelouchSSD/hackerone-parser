@@ -1,0 +1,233 @@
+{
+    "data": {
+        "me": null,
+        "search": {
+            "__typename": "SearchResultConnection",
+            "total_count": 6,
+            "nodes": [
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzMwMjAwMjE=",
+                    "_id": "3020021",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjE4OTgyNg==",
+                        "username": "adilnbabras",
+                        "name": "",
+                        "__typename": "User"
+                    },
+                    "cve_ids": [],
+                    "cwe": "Privilege Escalation",
+                    "severity_rating": "Medium",
+                    "upvoted": null,
+                    "public": true,
+                    "report": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydC8zMDIwMDIx",
+                        "databaseId": "3020021",
+                        "title": "[Vertical Privilege Escalation] User can Unapproved any Approved Translation at [/translations/unapprove/]",
+                        "substate": "resolved",
+                        "url": "https://hackerone.com/reports/3020021",
+                        "disclosed_at": "2026-04-10T01:13:22.605Z",
+                        "report_generated_content": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydEdlbmVyYXRlZENvbnRlbnQvODYzNg==",
+                            "hacktivity_summary": "A vulnerability was discovered in the Pontoon web application where any logged-in user could unapprove any approved translation, regardless of their privileges. This was due to a logical error in the validation logic, which allowed bypassing the authorization check. The vulnerability could be exploited by intercepting the request to the \"/translations/unapprove/\" endpoint and modifying the necessary parameters.",
+                            "__typename": "ReportGeneratedContent"
+                        },
+                        "__typename": "Report"
+                    },
+                    "votes": 34,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzYxMjM2",
+                        "handle": "mozilla",
+                        "name": "Mozilla",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/0p8e6gg8xoy45dhjxs5wh4iti6k8/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/mozilla",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::ReportBecamePublic",
+                    "latest_disclosable_activity_at": "2026-04-10T01:13:22.898Z",
+                    "submitted_at": "2025-03-01T21:20:45.371Z",
+                    "disclosed": true,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzMzMjU1ODI=",
+                    "_id": "3325582",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjE4OTgyNg==",
+                        "username": "adilnbabras",
+                        "name": "",
+                        "__typename": "User"
+                    },
+                    "cve_ids": [],
+                    "cwe": "Improper Access Control - Generic",
+                    "severity_rating": "Low",
+                    "upvoted": null,
+                    "public": true,
+                    "report": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydC8zMzI1NTgy",
+                        "databaseId": "3325582",
+                        "title": "User Can Delete Other Users' Personal Access Tokens at /delete-token/{token_id}/ on Mozilla Pontoon",
+                        "substate": "resolved",
+                        "url": "https://hackerone.com/reports/3325582",
+                        "disclosed_at": "2026-04-10T01:12:47.137Z",
+                        "report_generated_content": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydEdlbmVyYXRlZENvbnRlbnQvODYzNQ==",
+                            "hacktivity_summary": "A vulnerability was discovered in the Mozilla Pontoon application that allowed users to delete other users' personal access tokens at the /delete-token/{token_id}/ endpoint without proper permission checks. The vulnerability was caused by the absence of user permission verification in the delete_token view function, which allowed anyone to delete any user's personal access token. This could have resulted in users losing access to their accounts if their personal access tokens were deleted.",
+                            "__typename": "ReportGeneratedContent"
+                        },
+                        "__typename": "Report"
+                    },
+                    "votes": 31,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzYxMjM2",
+                        "handle": "mozilla",
+                        "name": "Mozilla",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/0p8e6gg8xoy45dhjxs5wh4iti6k8/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/mozilla",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::ReportBecamePublic",
+                    "latest_disclosable_activity_at": "2026-04-10T01:12:47.439Z",
+                    "submitted_at": "2025-09-03T21:06:01.274Z",
+                    "disclosed": true,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzMwMjU3OTc=",
+                    "_id": "3025797",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjE4OTgyNg==",
+                        "username": "adilnbabras",
+                        "name": "",
+                        "__typename": "User"
+                    },
+                    "cve_ids": [],
+                    "cwe": "Privilege Escalation",
+                    "severity_rating": "Low",
+                    "upvoted": null,
+                    "public": true,
+                    "report": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydC8zMDI1Nzk3",
+                        "databaseId": "3025797",
+                        "title": "[Privilege Escalation] User can Pin|Unpin Any Comment on Any Project or Locale",
+                        "substate": "resolved",
+                        "url": "https://hackerone.com/reports/3025797",
+                        "disclosed_at": "2026-03-20T11:00:15.122Z",
+                        "report_generated_content": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydEdlbmVyYXRlZENvbnRlbnQvODYxMQ==",
+                            "hacktivity_summary": "A vulnerability was discovered in the Pontoon application where any user could pin or unpin comments on any project or locale, despite lacking the necessary privileges. This was possible due to the lack of proper access controls in the backend code handling the pin and unpin functionality.",
+                            "__typename": "ReportGeneratedContent"
+                        },
+                        "__typename": "Report"
+                    },
+                    "votes": 55,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzYxMjM2",
+                        "handle": "mozilla",
+                        "name": "Mozilla",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/0p8e6gg8xoy45dhjxs5wh4iti6k8/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/mozilla",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::ReportBecamePublic",
+                    "latest_disclosable_activity_at": "2026-03-20T11:00:16.296Z",
+                    "submitted_at": "2025-03-07T21:38:15.626Z",
+                    "disclosed": true,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzIyOTA5MzE=",
+                    "_id": "2290931",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjE4OTgyNg==",
+                        "username": "adilnbabras",
+                        "name": "",
+                        "__typename": "User"
+                    },
+                    "cve_ids": null,
+                    "cwe": null,
+                    "severity_rating": null,
+                    "upvoted": null,
+                    "public": true,
+                    "report": null,
+                    "votes": 1,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzUwMTY2",
+                        "handle": "freshworks",
+                        "name": "Freshworks ",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/PKZta3f35ZjEv9S8sWrHK9mv/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/freshworks",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::BugResolved",
+                    "latest_disclosable_activity_at": "2024-08-06T06:52:28.387Z",
+                    "submitted_at": "2023-12-18T22:22:39.305Z",
+                    "disclosed": false,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzE2MDg3MzU=",
+                    "_id": "1608735",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjE4OTgyNg==",
+                        "username": "adilnbabras",
+                        "name": "",
+                        "__typename": "User"
+                    },
+                    "cve_ids": [],
+                    "cwe": "Insecure Direct Object Reference (IDOR)",
+                    "severity_rating": "Medium",
+                    "upvoted": null,
+                    "public": true,
+                    "report": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydC8xNjA4NzM1",
+                        "databaseId": "1608735",
+                        "title": "IDOR allows an attacker to delete anyone's featured photo.",
+                        "substate": "resolved",
+                        "url": "https://hackerone.com/reports/1608735",
+                        "disclosed_at": "2023-08-24T02:49:54.239Z",
+                        "report_generated_content": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydEdlbmVyYXRlZENvbnRlbnQvNjYxNw==",
+                            "hacktivity_summary": "An Insecure Direct Object Reference (IDOR) vulnerability allowed an attacker to delete anyone's featured photo on LinkedIn by manipulating the parameters in the delete request. This vulnerability was exploited by obtaining the necessary parameters from the victim's profile link and replacing them in the attacker's request.",
+                            "__typename": "ReportGeneratedContent"
+                        },
+                        "__typename": "Report"
+                    },
+                    "votes": 92,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzU4",
+                        "handle": "linkedin",
+                        "name": "LinkedIn",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/000/058/3aaa858b18e9807c5c1fea0c559156568a6647cc_original.png/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/linkedin",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::ReportBecamePublic",
+                    "latest_disclosable_activity_at": "2023-08-24T02:49:54.313Z",
+                    "submitted_at": "2022-06-22T01:59:55.808Z",
+                    "disclosed": true,
+                    "has_collaboration": false,
+                    "collaborators": []
+                }
+            ]
+        }
+    }
+}

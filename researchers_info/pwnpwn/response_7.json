@@ -1,0 +1,158 @@
+{
+    "data": {
+        "me": null,
+        "search": {
+            "__typename": "SearchResultConnection",
+            "total_count": 4,
+            "nodes": [
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzM2NjUzNjM=",
+                    "_id": "3665363",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjU5NzU2Nw==",
+                        "username": "pwnpwn",
+                        "name": "<math><mtext><table><mglyph><style><![CDATA[</style><img title=\"]]&gt;&lt;/",
+                        "__typename": "User"
+                    },
+                    "cve_ids": [
+                        "CVE-2020-19909"
+                    ],
+                    "cwe": "Integer Overflow",
+                    "severity_rating": "None",
+                    "upvoted": null,
+                    "public": true,
+                    "report": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydC8zNjY1MzYz",
+                        "databaseId": "3665363",
+                        "title": "Integer Overflow/Signedness Mismatch in Printf Precision for HTTP/2 Trailer Headers",
+                        "substate": "not-applicable",
+                        "url": "https://hackerone.com/reports/3665363",
+                        "disclosed_at": "2026-04-11T09:23:46.964Z",
+                        "report_generated_content": null,
+                        "__typename": "Report"
+                    },
+                    "votes": 13,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzM1NjYz",
+                        "handle": "curl",
+                        "name": "curl",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/curl",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::ManuallyDisclosed",
+                    "latest_disclosable_activity_at": "2026-04-11T09:23:46.772Z",
+                    "submitted_at": "2026-04-11T03:01:04.714Z",
+                    "disclosed": true,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzIwMDM4ODE=",
+                    "_id": "2003881",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjU5NzU2Nw==",
+                        "username": "pwnpwn",
+                        "name": "<math><mtext><table><mglyph><style><![CDATA[</style><img title=\"]]&gt;&lt;/",
+                        "__typename": "User"
+                    },
+                    "cve_ids": null,
+                    "cwe": null,
+                    "severity_rating": null,
+                    "upvoted": null,
+                    "public": true,
+                    "report": null,
+                    "votes": 0,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNDUz",
+                        "handle": "informatica",
+                        "name": "Informatica",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/6yxveqohTKjQLQyJm5Xv7Eye/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/informatica",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::BugResolved",
+                    "latest_disclosable_activity_at": "2025-05-15T06:37:02.667Z",
+                    "submitted_at": "2023-05-26T23:36:31.412Z",
+                    "disclosed": false,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzIwNzY4MjM=",
+                    "_id": "2076823",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjU5NzU2Nw==",
+                        "username": "pwnpwn",
+                        "name": "<math><mtext><table><mglyph><style><![CDATA[</style><img title=\"]]&gt;&lt;/",
+                        "__typename": "User"
+                    },
+                    "cve_ids": null,
+                    "cwe": null,
+                    "severity_rating": null,
+                    "upvoted": null,
+                    "public": true,
+                    "report": null,
+                    "votes": 0,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzM0Nw==",
+                        "handle": "adobe",
+                        "name": "Adobe",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/qtwRFSzn2th8Rz52AH2RfhZd/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/adobe",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::BugResolved",
+                    "latest_disclosable_activity_at": "2023-10-26T16:42:24.645Z",
+                    "submitted_at": "2023-07-20T08:10:25.075Z",
+                    "disclosed": false,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzIwMTg1OTg=",
+                    "_id": "2018598",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjU5NzU2Nw==",
+                        "username": "pwnpwn",
+                        "name": "<math><mtext><table><mglyph><style><![CDATA[</style><img title=\"]]&gt;&lt;/",
+                        "__typename": "User"
+                    },
+                    "cve_ids": null,
+                    "cwe": null,
+                    "severity_rating": null,
+                    "upvoted": null,
+                    "public": true,
+                    "report": null,
+                    "votes": 0,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vNzIwNQ==",
+                        "handle": "gm",
+                        "name": "General Motors",
+                        "medium_profile_picture": "https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/bzxw91najnnhnox8jzyafvfz1ryc/d9695107bfcd68eeb1c9e0912b109cdae9a6c00c0bda6fd4cbd6d9bdb828840a?response-content-disposition=inline%3B%20filename%3D%22GM_Logo.jpg%22%3B%20filename%2A%3DUTF-8%27%27GM_Logo.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQGK6FURQVWDZLIIB%2F20260419%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260419T160956Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEAaCXVzLXdlc3QtMiJGMEQCIALKid%2BrVUwcklw2HAbo7W2WmBxL0l%2FkoAd15U%2B2hwJ0AiAjp50u6zxla3z1BoS8ohZqlNmvnXLiOWZIUdUse1GBxiqxBQgJEAMaDDAxMzYxOTI3NDg0OSIMafmQFUn2DswxhRjyKo4FrDEsd%2FaAXWtaLlFMO%2BgZcY9VRb%2B9QHj8E441Z2Lr0IS38LCsA%2FZyEVAquBzdpvwTFLT1wRzodXNVTC1Ks9yoy4lTDE7jwiB1yvGQlo9tLlRddVMmtq6HA61u7MlITXF2VxuS%2B01tqpZ%2BIv8%2FOBOF1nA4IVCTSKDzMwaE79BYnLiUc5XqBJK4bIWzJpPrutwfl%2FMoudwEXXkpm33eD7aVivJ4CuBHPkyde3DalX9MkKuy0HpqP2CHWEDVrCsKR0m1kArwjOSEbCPXs0gASHEu6W1nwO%2FnBExyzqc2Sck4lv3VVZhOuhPI2HxiS2zPyU1bEI1JoVwo7pTkoOm5S1onVOztCQs7YUUoscEGfWwqNdFoqGsNXlGqHhkRpTQ1uQR1N06etiTFei3aCwmiEludIoAbocHQT7bhInOYswQmIYmrRtrav3FLf5zUk%2F3%2F9uvYtGu65x9lUZoUS4O60bSygiNXCyv90Vccwb%2BG0zRjfFM62AUPe%2Bw2p5SnuaD%2Fuofli9%2FlcL0m1QFXCrIK2jKn7ZuT1XnY44wxfF08wYU2RnvH5ifYfQPu5DPJLukCg0UTF1VtQvz6XL7N7ExaQmJqtbZ4k5ScZeNeOkoDswYYy2ErYMjKr2tj2Ar3UelTzXs1lWSi4oKe9D9M9wO3IN0JGA3fPcTvIWIzp7DEbbslRXv2LXBrUHWJzDclPlKqOPxCt8CZwoqNXHXHzAByovnJmn2ZygxqpmWvDcHrDplI9mylt2Z%2BZEaotVhqytaMLYLBG8b9A68%2FwBzwVK%2BQpN50DCc%2FOu3VaneEZafucmbOwcCMHxLQ3eeO0UCMseuWt0icygpcuEMdKY0NCyaPEe7hm0Osa4yRAIBHUTt98s%2BtMPLmk88GOrIBp2S2ausWJ5sIN5ov62ivCCPGs4kcyGU%2BM%2BLkM4qjwPePMuSiNdFfIFm6HYT0yqHcJISPeesNiffep1wRap7WzRbcOqTCD1Q3U%2F1HmZXyy3SOIa54U2LU9FchLkBJjE5znITHQBPbKTqJLWbHqbjMEO%2F%2F3yjPxnQQ2pQO%2BhW4lsltYLBHbuPkE9x7qjqQV%2BUaIuE4Af%2FaHABrFTMFVKlKJRuhUn%2BAIuWhTvhtyiuyyZttYg%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e0614284f01dcccbcedef5a51d0ce9b7cca1a77b59aa00c7801bfb4dc67fb294",
+                        "url": "https://hackerone.com/gm",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::BugResolved",
+                    "latest_disclosable_activity_at": "2023-07-18T20:42:42.468Z",
+                    "submitted_at": "2023-06-08T19:53:21.341Z",
+                    "disclosed": false,
+                    "has_collaboration": false,
+                    "collaborators": []
+                }
+            ]
+        }
+    }
+}

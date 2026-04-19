@@ -1,0 +1,190 @@
+{
+    "data": {
+        "me": null,
+        "search": {
+            "__typename": "SearchResultConnection",
+            "total_count": 9,
+            "nodes": [
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzMzODIzNDM=",
+                    "_id": "3382343",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTU2MzMx",
+                        "username": "cyberjoker",
+                        "name": "Vitaly",
+                        "__typename": "User"
+                    },
+                    "cve_ids": [],
+                    "cwe": "Insecure Direct Object Reference (IDOR)",
+                    "severity_rating": "Medium",
+                    "upvoted": null,
+                    "public": true,
+                    "report": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydC8zMzgyMzQz",
+                        "databaseId": "3382343",
+                        "title": "BOLA/IDOR in Out-of-Office API allows any authenticated user to read other users' absence data",
+                        "substate": "informative",
+                        "url": "https://hackerone.com/reports/3382343",
+                        "disclosed_at": "2026-04-14T18:48:25.170Z",
+                        "report_generated_content": null,
+                        "__typename": "Report"
+                    },
+                    "votes": 20,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzEzMjkx",
+                        "handle": "nextcloud",
+                        "name": "Nextcloud",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/hsgut1vi1cv8housqai9cm9383yx/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/nextcloud",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::ReportBecamePublic",
+                    "latest_disclosable_activity_at": "2026-04-14T18:48:25.683Z",
+                    "submitted_at": "2025-10-13T18:50:43.906Z",
+                    "disclosed": true,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzM0ODQyMDk=",
+                    "_id": "3484209",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTU2MzMx",
+                        "username": "cyberjoker",
+                        "name": "Vitaly",
+                        "__typename": "User"
+                    },
+                    "cve_ids": null,
+                    "cwe": null,
+                    "severity_rating": null,
+                    "upvoted": null,
+                    "public": true,
+                    "report": null,
+                    "votes": 0,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzU1",
+                        "handle": "wordpress",
+                        "name": "WordPress",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/000/055/f114d1d31f904e3b903cd99a6cf566bb531f8401_original.jpg/d9695107bfcd68eeb1c9e0912b109cdae9a6c00c0bda6fd4cbd6d9bdb828840a",
+                        "url": "https://hackerone.com/wordpress",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::BountyAwarded",
+                    "latest_disclosable_activity_at": "2026-03-27T00:05:35.644Z",
+                    "submitted_at": "2026-01-01T18:47:24.108Z",
+                    "disclosed": false,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzM1MjU1NTQ=",
+                    "_id": "3525554",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTU2MzMx",
+                        "username": "cyberjoker",
+                        "name": "Vitaly",
+                        "__typename": "User"
+                    },
+                    "cve_ids": null,
+                    "cwe": null,
+                    "severity_rating": null,
+                    "upvoted": null,
+                    "public": true,
+                    "report": null,
+                    "votes": 0,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzEwMzgzMQ==",
+                        "handle": "vercel-open-source",
+                        "name": "Vercel Open Source",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/js15zbfhilidjv71r0fnb12kckzw/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/vercel-open-source",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": 137,
+                    "latest_disclosable_action": "Activities::BugResolved",
+                    "latest_disclosable_activity_at": "2026-03-04T07:17:35.363Z",
+                    "submitted_at": "2026-01-26T19:20:42.340Z",
+                    "disclosed": false,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzM1MjMyMzk=",
+                    "_id": "3523239",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTU2MzMx",
+                        "username": "cyberjoker",
+                        "name": "Vitaly",
+                        "__typename": "User"
+                    },
+                    "cve_ids": null,
+                    "cwe": null,
+                    "severity_rating": null,
+                    "upvoted": null,
+                    "public": true,
+                    "report": null,
+                    "votes": 0,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzEwMzgzMQ==",
+                        "handle": "vercel-open-source",
+                        "name": "Vercel Open Source",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/js15zbfhilidjv71r0fnb12kckzw/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/vercel-open-source",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": 350,
+                    "latest_disclosable_action": "Activities::BountyAwarded",
+                    "latest_disclosable_activity_at": "2026-02-17T17:39:31.695Z",
+                    "submitted_at": "2026-01-24T20:51:01.065Z",
+                    "disclosed": false,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzM0ODcyMTc=",
+                    "_id": "3487217",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTU2MzMx",
+                        "username": "cyberjoker",
+                        "name": "Vitaly",
+                        "__typename": "User"
+                    },
+                    "cve_ids": null,
+                    "cwe": null,
+                    "severity_rating": null,
+                    "upvoted": null,
+                    "public": true,
+                    "report": null,
+                    "votes": 5,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzU1OTUx",
+                        "handle": "mongodb",
+                        "name": "MongoDB",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/114gp40r6lm34r7751r63022q5ot/d9695107bfcd68eeb1c9e0912b109cdae9a6c00c0bda6fd4cbd6d9bdb828840a",
+                        "url": "https://hackerone.com/mongodb",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": 6000,
+                    "latest_disclosable_action": "Activities::BugResolved",
+                    "latest_disclosable_activity_at": "2026-02-12T00:28:49.067Z",
+                    "submitted_at": "2026-01-05T10:07:16.767Z",
+                    "disclosed": false,
+                    "has_collaboration": false,
+                    "collaborators": []
+                }
+            ]
+        }
+    }
+}

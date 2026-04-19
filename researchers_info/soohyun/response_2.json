@@ -1,0 +1,11 @@
+{
+    "data": {
+        "resource": {
+            "url": "https://hackerone.com/soohyun",
+            "__typename": "User",
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMzMzMDk5Mg==",
+            "username": "soohyun"
+        },
+        "me": null
+    }
+}

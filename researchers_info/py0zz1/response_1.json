@@ -1,0 +1,67 @@
+{
+    "data": {
+        "me": null,
+        "search": {
+            "__typename": "SearchResultConnection",
+            "total_count": 1,
+            "nodes": [
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzM2NzMyNzc=",
+                    "_id": "3673277",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDQyNzc0MQ==",
+                        "username": "asdwe",
+                        "name": "pseudonym",
+                        "__typename": "User"
+                    },
+                    "cve_ids": [],
+                    "cwe": "Information Exposure Through Sent Data",
+                    "severity_rating": "Low",
+                    "upvoted": null,
+                    "public": true,
+                    "report": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydC8zNjczMjc3",
+                        "databaseId": "3673277",
+                        "title": "libcurl stale CURLOPT_AUTOREFERER leaks a previous request URL to a different origin on a reused easy handle",
+                        "substate": "informative",
+                        "url": "https://hackerone.com/reports/3673277",
+                        "disclosed_at": "2026-04-17T20:09:03.023Z",
+                        "report_generated_content": null,
+                        "__typename": "Report"
+                    },
+                    "votes": 8,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzM1NjYz",
+                        "handle": "curl",
+                        "name": "curl",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/curl",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::ManuallyDisclosed",
+                    "latest_disclosable_activity_at": "2026-04-17T20:09:02.456Z",
+                    "submitted_at": "2026-04-14T17:03:19.425Z",
+                    "disclosed": true,
+                    "has_collaboration": true,
+                    "collaborators": [
+                        {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDQwMjYwOA==",
+                            "username": "argareksapatii",
+                            "name": "nobcoder",
+                            "__typename": "User"
+                        },
+                        {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDQyNzc0MQ==",
+                            "username": "asdwe",
+                            "name": "pseudonym",
+                            "__typename": "User"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

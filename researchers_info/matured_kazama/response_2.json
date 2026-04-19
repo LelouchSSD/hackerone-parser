@@ -1,0 +1,11 @@
+{
+    "data": {
+        "resource": {
+            "url": "https://hackerone.com/matured_kazama",
+            "__typename": "User",
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTU3MjE4OA==",
+            "username": "matured_kazama"
+        },
+        "me": null
+    }
+}

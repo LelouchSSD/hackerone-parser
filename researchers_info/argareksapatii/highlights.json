@@ -1,0 +1,42 @@
+{
+    "profile": {
+        "username": "argareksapatii",
+        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDQwMjYwOA==",
+        "url": "https://hackerone.com/argareksapatii"
+    },
+    "memberships": {
+        "total_count": 0
+    },
+    "snapshot": {
+        "reputation": 16,
+        "rank": 3228
+    },
+    "user_stats": {
+        "resolved_report_count": 1,
+        "thanks_items_total_count": 2,
+        "registered_at": "2026-03-26",
+        "handlers": {
+            "linkedin": "arga-reksapati-695a67323"
+        },
+        "badges": {
+            "badges_count": 3,
+            "badges_names": [
+                [
+                    "2026-04-15",
+                    "Publish or Perish"
+                ],
+                [
+                    "2026-04-03",
+                    "Insecticide"
+                ],
+                [
+                    "2026-04-03",
+                    "Good Samaritan"
+                ]
+            ]
+        }
+    },
+    "weakness_stats": {
+        "Improper Input Validation": 1
+    }
+}

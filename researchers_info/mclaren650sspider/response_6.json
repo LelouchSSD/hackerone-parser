@@ -1,0 +1,207 @@
+{
+    "data": {
+        "me": null,
+        "search": {
+            "__typename": "SearchResultConnection",
+            "total_count": 88,
+            "nodes": [
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzMwNzk5MzE=",
+                    "_id": "3079931",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNjI5MTg3",
+                        "username": "mclaren650sspider",
+                        "name": "",
+                        "__typename": "User"
+                    },
+                    "cve_ids": [],
+                    "cwe": "Uncontrolled Resource Consumption",
+                    "severity_rating": "Medium",
+                    "upvoted": null,
+                    "public": true,
+                    "report": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydC8zMDc5OTMx",
+                        "databaseId": "3079931",
+                        "title": "Memory leak in gem decode logic can allow attacker to take down Rubygems.org application",
+                        "substate": "resolved",
+                        "url": "https://hackerone.com/reports/3079931",
+                        "disclosed_at": "2026-04-09T11:46:38.633Z",
+                        "report_generated_content": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydEdlbmVyYXRlZENvbnRlbnQvODYzNA==",
+                            "hacktivity_summary": "A memory leak vulnerability was discovered in the gem decode logic of the Rubygems.org application. The vulnerability allowed an attacker with a valid API key to set arbitrary instance variables during the decoding of gem metadata, which would cause the server to exhaust its memory. The issue was addressed by restricting the instance variables that can be set during metadata decoding.",
+                            "__typename": "ReportGeneratedContent"
+                        },
+                        "__typename": "Report"
+                    },
+                    "votes": 30,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzgyMTI=",
+                        "handle": "rubygems",
+                        "name": "RubyGems",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/008/212/e65eca09896d23bc029c08d3147a79a48ec1ee2f_original.png/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/rubygems",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::ReportBecamePublic",
+                    "latest_disclosable_activity_at": "2026-04-09T11:46:39.142Z",
+                    "submitted_at": "2025-04-06T16:48:45.601Z",
+                    "disclosed": true,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzM1MzI2OTQ=",
+                    "_id": "3532694",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNjI5MTg3",
+                        "username": "mclaren650sspider",
+                        "name": "",
+                        "__typename": "User"
+                    },
+                    "cve_ids": null,
+                    "cwe": null,
+                    "severity_rating": null,
+                    "upvoted": null,
+                    "public": true,
+                    "report": null,
+                    "votes": 0,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzU1NTUy",
+                        "handle": "sidefx",
+                        "name": "SideFX",
+                        "medium_profile_picture": "https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/h7pk4347ap4x2wxyq1bdx1aykzgt/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22logo.png%22%3B%20filename%2A%3DUTF-8%27%27logo.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQGK6FURQ4XLVCFFU%2F20260419%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260419T161229Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjED8aCXVzLXdlc3QtMiJHMEUCIQDtvb58SQOlDQCRkgiLeZRLimXXkFqZK98m7pHChJamagIgIxeGbZWcsriIhIEEJPL4E%2FpCyGDzeVLxXNbSOfP3D%2BgqsgUICBADGgwwMTM2MTkyNzQ4NDkiDEaI1wLVVVxUl9X4HyqPBXYfUw1XBthrbHJs9qB1B6v8x9S2PTad6ApmGQTMfFsKTfKYTQwQqGdfP8DWHJItOBKn%2FyVycU4dkANjVM9gcS%2F4z1Fg7sLhxdgMKVAYSBoOQTx4jz2qfJQ%2BHzICmk3DsveVs0hKKvLJgZt7X812b5%2B4X6OKmygFw2%2BevJDubbyOWS0Se%2BvHWJBCG%2BJe1ZFnU%2Bl3wqXlF5lpitmDWHpG4QxdiKhkAjKGRggPiBM7qK6Ilt1VAUda8CFbONK20MuVXGI%2FOppeUmaglqxM76ED5uMLoi1XIEzr1t9fuxYTcLrujd4G5rUkAMCK6AvlzE2yCDN%2FYbUl8KSsllhoMJLHfvXs13ENIXyM8oKQ5p%2FgyEHNv9Hx9jNkm2S2JYx1TD5S2znx39tuYhxX3xFd09om8POl6aymy7oGv9QvinWaGqcEAoJ0EJMLlvrcPRGlsiwGXyjhzUfoHkp1SjJ%2FtvQaFxAI%2Bt3q1d3pIPm0WnIc01CYBAkEuGmyx2N6hZ23JmJRBhFY32stUS%2FbwYhvvBykd%2FNoE4YEjPtO1Gto6GSMmuyMdOSBwyZzvy%2BDNbNAgfCHsTnz21AhNq04SYgaMQNX70NsrYdRpVTd9m%2BTCfBwIsQnqDyaIPCdP9oF2ouqiF18MiHYXrGFf9U3V6EMKSUs%2BNDaNaoGD6Iz%2FxWFB%2FaGFCIeVRYhf6yJax%2BPUWnb82YMGhbtCGEATG2VPZTdQsQ4nIUp2qClvctZ%2BQrhDfPqk0Nm7ftC0ixs%2FB%2BD9b%2B4fF44uve8gtL2HfQYlhIAE1Gp6yQbzDRprT2WQNPmk6jVYs80GMV34WoCKi6wU1RfUMm20ljiRJ%2BsBOnUiX5LDKnEIZuA6A9Due0aQ%2FIMFMWaDQAw%2Bs%2BTzwY6sQGloNClUKpuFyyrsGX2CfPXZjpGD%2FO7bIsTmW6Op5UyCCpVCzzftna0tRb9QevjgORHXU78NKPtqdE0RyrOTZ8f445x5VJzNyu7gJGG98LwmwoY%2BHMRbcKBa0ZpVCWAdqcXwg7u06X5rUI%2FV4c2QYQQR220fq8f7vp3G%2FAEVPU0X11WPHzaNE8bdX2mMayd%2FA25KIbrFXE%2BolMLEHZTZpDAQQV6BdtK8Wf13xMRGf5adqU%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1c4a81e4f6c7edb3d3a93f691b432c0f29c8b9563a5e93ed19ec360327e7eb15",
+                        "url": "https://hackerone.com/sidefx",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::BugResolved",
+                    "latest_disclosable_activity_at": "2026-03-06T02:37:39.003Z",
+                    "submitted_at": "2026-01-31T09:43:52.783Z",
+                    "disclosed": false,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzMwNzIwMTQ=",
+                    "_id": "3072014",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNjI5MTg3",
+                        "username": "mclaren650sspider",
+                        "name": "",
+                        "__typename": "User"
+                    },
+                    "cve_ids": null,
+                    "cwe": null,
+                    "severity_rating": null,
+                    "upvoted": null,
+                    "public": true,
+                    "report": null,
+                    "votes": 1,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzIzNjA3",
+                        "handle": "elastic",
+                        "name": "Elastic",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/023/607/c5cce6a2e2d95af85e014db95c2d7560e73e9bec_original./3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/elastic",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::BugResolved",
+                    "latest_disclosable_activity_at": "2025-11-03T05:11:31.163Z",
+                    "submitted_at": "2025-04-01T19:00:43.136Z",
+                    "disclosed": false,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzI5MTI3MjA=",
+                    "_id": "2912720",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNjI5MTg3",
+                        "username": "mclaren650sspider",
+                        "name": "",
+                        "__typename": "User"
+                    },
+                    "cve_ids": null,
+                    "cwe": null,
+                    "severity_rating": null,
+                    "upvoted": null,
+                    "public": true,
+                    "report": null,
+                    "votes": 0,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzI2NA==",
+                        "handle": "gitlab",
+                        "name": "GitLab",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/f0hovtq73f9ap815a0r1w42bocp4/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/gitlab",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::BugResolved",
+                    "latest_disclosable_activity_at": "2025-08-21T20:33:35.075Z",
+                    "submitted_at": "2024-12-23T13:54:08.185Z",
+                    "disclosed": false,
+                    "has_collaboration": true,
+                    "collaborators": [
+                        {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjg0MzI3Mw==",
+                            "username": "99th_percentile",
+                            "name": "Wesley",
+                            "__typename": "User"
+                        },
+                        {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNjI5MTg3",
+                            "username": "mclaren650sspider",
+                            "name": "",
+                            "__typename": "User"
+                        }
+                    ]
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzMxOTk1MjE=",
+                    "_id": "3199521",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNjI5MTg3",
+                        "username": "mclaren650sspider",
+                        "name": "",
+                        "__typename": "User"
+                    },
+                    "cve_ids": null,
+                    "cwe": null,
+                    "severity_rating": null,
+                    "upvoted": null,
+                    "public": true,
+                    "report": null,
+                    "votes": 1,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzI0NjI2",
+                        "handle": "cosmos",
+                        "name": "Cosmos",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/l8innmct0qu74b6xv2jzvh5lk5ap/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/cosmos",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::BugResolved",
+                    "latest_disclosable_activity_at": "2025-08-19T15:00:14.246Z",
+                    "submitted_at": "2025-06-13T15:46:39.204Z",
+                    "disclosed": false,
+                    "has_collaboration": false,
+                    "collaborators": []
+                }
+            ]
+        }
+    }
+}

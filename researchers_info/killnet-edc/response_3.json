@@ -1,0 +1,11 @@
+{
+    "data": {
+        "resource": {
+            "url": "https://hackerone.com/killnet-edc",
+            "__typename": "User",
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjUxMDM4OQ==",
+            "username": "killnet-edc"
+        },
+        "me": null
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "data": {
+        "resource": {
+            "url": "https://hackerone.com/adityasunny_06",
+            "__typename": "User",
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTE2ODIyMw==",
+            "username": "adityasunny_06"
+        },
+        "me": null
+    }
+}

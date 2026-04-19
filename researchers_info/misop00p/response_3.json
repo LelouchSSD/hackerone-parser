@@ -1,0 +1,11 @@
+{
+    "data": {
+        "resource": {
+            "url": "https://hackerone.com/misop00p",
+            "__typename": "User",
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTYwMjgwMQ==",
+            "username": "misop00p"
+        },
+        "me": null
+    }
+}

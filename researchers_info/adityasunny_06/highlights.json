@@ -1,0 +1,48 @@
+{
+    "profile": {
+        "username": "adityasunny_06",
+        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTE2ODIyMw==",
+        "url": "https://hackerone.com/adityasunny_06"
+    },
+    "memberships": {
+        "total_count": 0
+    },
+    "snapshot": {
+        "signal": -5.0,
+        "signal_percentile": 22,
+        "reputation": -16,
+        "rank": 22844
+    },
+    "user_stats": {
+        "resolved_report_count": 2,
+        "thanks_items_total_count": 4,
+        "registered_at": "2020-06-01",
+        "location": "bihar",
+        "bio": "Aditya is skilled and experienced cybersecurity researcher, specializing in cyber threat intelligence, vulnerability assessment, penetration testing, and web application security. He has a strong technical background in programming and ethical hacking, which makes him capable of identifying and exploiting vulnerabilities in the most complex systems.",
+        "handlers": {
+            "bugcrowd": "adityasunny06",
+            "linkedin": "aditay-kumar",
+            "twitter": "aditysunny06"
+        },
+        "badges": {
+            "badges_count": 3,
+            "badges_names": [
+                [
+                    "2026-03-17",
+                    "Insecticide"
+                ],
+                [
+                    "2026-03-17",
+                    "TrailBlazer"
+                ],
+                [
+                    "2026-03-17",
+                    "Good Samaritan"
+                ]
+            ]
+        }
+    },
+    "weakness_stats": {
+        "Cross-site Scripting (XSS) - Stored": 1
+    }
+}

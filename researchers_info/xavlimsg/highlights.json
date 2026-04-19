@@ -1,0 +1,39 @@
+{
+    "profile": {
+        "username": "xavlimsg",
+        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDM0NjIxNQ==",
+        "url": "https://hackerone.com/xavlimsg"
+    },
+    "memberships": {
+        "total_count": 0
+    },
+    "snapshot": {},
+    "user_stats": {
+        "resolved_report_count": 4,
+        "thanks_items_total_count": 8,
+        "registered_at": "2026-02-03",
+        "location": "Singapore",
+        "handlers": {},
+        "badges": {
+            "badges_count": 3,
+            "badges_names": [
+                [
+                    "2026-04-14",
+                    "Publish or Perish"
+                ],
+                [
+                    "2026-03-26",
+                    "A7: Cross-Site Scripting (XSS)"
+                ],
+                [
+                    "2026-02-19",
+                    "Milestone-program-Level-1"
+                ]
+            ]
+        }
+    },
+    "weakness_stats": {
+        "Cross-site Scripting (XSS) - DOM": 1,
+        "Improper Access Control - Generic": 2
+    }
+}

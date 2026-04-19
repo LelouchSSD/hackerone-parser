@@ -1,0 +1,54 @@
+{
+    "data": {
+        "me": null,
+        "search": {
+            "__typename": "SearchResultConnection",
+            "total_count": 1,
+            "nodes": [
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzM1OTE3MjU=",
+                    "_id": "3591725",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjUxMDM4OQ==",
+                        "username": "killnet-edc",
+                        "name": "killnet",
+                        "__typename": "User"
+                    },
+                    "cve_ids": [],
+                    "cwe": "SQL Injection",
+                    "severity_rating": "None",
+                    "upvoted": null,
+                    "public": true,
+                    "report": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydC8zNTkxNzI1",
+                        "databaseId": "3591725",
+                        "title": "SQL Injection Detection Bypass in AWS WAF Managed Rules (AWSManagedRulesSQLiRuleSet)",
+                        "substate": "informative",
+                        "url": "https://hackerone.com/reports/3591725",
+                        "disclosed_at": "2026-04-15T13:35:10.661Z",
+                        "report_generated_content": null,
+                        "__typename": "Report"
+                    },
+                    "votes": 20,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vODQ4MDk=",
+                        "handle": "aws_vdp",
+                        "name": "AWS VDP",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/fgfqam8gl7lzo8u8v0kiphkxfyt8/d9695107bfcd68eeb1c9e0912b109cdae9a6c00c0bda6fd4cbd6d9bdb828840a",
+                        "url": "https://hackerone.com/aws_vdp",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::ReportBecamePublic",
+                    "latest_disclosable_activity_at": "2026-04-15T13:35:11.201Z",
+                    "submitted_at": "2026-03-08T07:16:36.761Z",
+                    "disclosed": true,
+                    "has_collaboration": false,
+                    "collaborators": []
+                }
+            ]
+        }
+    }
+}

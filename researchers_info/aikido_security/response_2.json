@@ -1,0 +1,11 @@
+{
+    "data": {
+        "resource": {
+            "url": "https://hackerone.com/aikido_security",
+            "__typename": "User",
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDE3OTE4Ng==",
+            "username": "aikido_security"
+        },
+        "me": null
+    }
+}

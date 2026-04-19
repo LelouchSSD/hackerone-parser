@@ -1,0 +1,80 @@
+{
+    "data": {
+        "me": null,
+        "user": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjkyNTkyNQ==",
+            "username": "joejoe5",
+            "name": "joejoe5",
+            "intro": "awa",
+            "profileActivated": true,
+            "pentester_profile": null,
+            "user_streak": {
+                "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlVzZXJTdHJlYWsvc3RhdGljJTJGc3RhdGljLXVzZXItc3RyZWFrJTJGMiUyRjIwMjUtMTItMDErMDAlM0EwMCUzQTAwK1VUQyUyRjIwMjYtMDEtMDErMDAlM0EwMCUzQTAwK1VUQw==",
+                "length": 2,
+                "start_date": "2025-12-01T00:00:00.000Z",
+                "end_date": "2026-01-01T00:00:00.000Z",
+                "__typename": "UserStreak"
+            },
+            "__typename": "User",
+            "created_at": "2023-10-15T06:19:37.017Z",
+            "location": "Location",
+            "website": null,
+            "bio": "",
+            "profile_picture": "https://profile-photos.hackerone-user-content.com/variants/zlkc493xv0q77jgio5ojtap4ag9h/4c3f4b935c410fd89e32ce8c7cd577936b6edbe6a803fe368b72451551fd78d2",
+            "bugcrowd_handle": "",
+            "hack_the_box_handle": "",
+            "github_handle": "",
+            "gitlab_handle": "",
+            "linkedin_handle": "",
+            "twitter_handle": "",
+            "cleared": false,
+            "verified": true,
+            "open_for_employment": false,
+            "mark_as_company_on_leaderboards": false,
+            "followed": false,
+            "resolved_report_count": 11,
+            "thanks_items_total_count": 12,
+            "badges": {
+                "edges": [
+                    {
+                        "awarded_at": "2026-04-16T12:06:14.574Z",
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzE4",
+                            "name": "Publish or Perish",
+                            "image_path": "/assets/users/badges/publish-8147952674b82ea0b5b349191e02cd01ad32166b4f1e60c2f82269c29ae308e8.png",
+                            "__typename": "Badge"
+                        },
+                        "__typename": "BadgesUsersEdge"
+                    },
+                    {
+                        "awarded_at": "2026-04-08T14:15:02.737Z",
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzg=",
+                            "name": "Patient",
+                            "image_path": "/assets/users/badges/time-3e4e936e954294d2b6b9f5685124f61d66172b320e10df777523804752819300.png",
+                            "__typename": "Badge"
+                        },
+                        "__typename": "BadgesUsersEdge"
+                    },
+                    {
+                        "awarded_at": "2026-02-11T00:00:00.000Z",
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzkxMQ==",
+                            "name": "Milestone-program-Level-1",
+                            "image_path": "https://hackathon-photos.hackerone-user-content.com/66ij9sjj8a5nfwyf642nvpgl1zxo",
+                            "__typename": "Badge"
+                        },
+                        "__typename": "BadgesUsersEdge"
+                    }
+                ],
+                "__typename": "BadgesUsersConnection"
+            },
+            "public_reviews": {
+                "edges": [],
+                "__typename": "HackerReviewsConnection"
+            }
+        },
+        "id_verification": null,
+        "__typename": "Query"
+    }
+}

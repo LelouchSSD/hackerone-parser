@@ -1,0 +1,18 @@
+{
+    "profile": {
+        "username": "misop00p",
+        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTYwMjgwMQ==",
+        "url": "https://hackerone.com/misop00p"
+    },
+    "memberships": {
+        "total_count": 0
+    },
+    "snapshot": {
+        "reputation": 7,
+        "rank": 3788
+    },
+    "user_stats": {},
+    "weakness_stats": {
+        "Insertion of Sensitive Information into Log File": 1
+    }
+}

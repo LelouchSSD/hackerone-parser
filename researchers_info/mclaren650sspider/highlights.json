@@ -1,0 +1,37 @@
+{
+    "profile": {
+        "username": "mclaren650sspider",
+        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNjI5MTg3",
+        "url": "https://hackerone.com/mclaren650sspider"
+    },
+    "memberships": {
+        "total_count": 0
+    },
+    "snapshot": {},
+    "user_stats": {
+        "resolved_report_count": 147,
+        "thanks_items_total_count": 105,
+        "registered_at": "2019-05-29",
+        "handlers": {},
+        "badges": {
+            "badges_count": 3,
+            "badges_names": [
+                [
+                    "2026-02-11",
+                    "Milestone-program-Level-1"
+                ],
+                [
+                    "2025-10-31",
+                    "Greybeard"
+                ],
+                [
+                    "2025-05-22",
+                    "Good Samaritan"
+                ]
+            ]
+        }
+    },
+    "weakness_stats": {
+        "Uncontrolled Resource Consumption": 1
+    }
+}

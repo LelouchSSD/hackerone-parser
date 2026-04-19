@@ -1,0 +1,58 @@
+{
+    "data": {
+        "me": null,
+        "search": {
+            "__typename": "SearchResultConnection",
+            "total_count": 1,
+            "nodes": [
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzMyODcyMDg=",
+                    "_id": "3287208",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDAxOTExNQ==",
+                        "username": "hellokbit",
+                        "name": "",
+                        "__typename": "User"
+                    },
+                    "cve_ids": [],
+                    "cwe": null,
+                    "severity_rating": null,
+                    "upvoted": null,
+                    "public": true,
+                    "report": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydC8zMjg3MjA4",
+                        "databaseId": "3287208",
+                        "title": "DOS via Mutation Aliasing in GraphQL Account Recovery Phone Number Verification API",
+                        "substate": "resolved",
+                        "url": "https://hackerone.com/reports/3287208",
+                        "disclosed_at": "2026-04-16T12:00:20.788Z",
+                        "report_generated_content": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydEdlbmVyYXRlZENvbnRlbnQvODY0Nw==",
+                            "hacktivity_summary": "The GraphQL API's 'verifyAccountRecoveryPhoneNumber' mutation was found to be vulnerable to denial-of-service attacks through mutation aliasing. The vulnerability allowed multiple aliases of the same mutation to be included in a single request, causing the server to process each mutation sequentially and increasing the response time linearly. This resource exhaustion issue could potentially have led to service disruption for legitimate users.",
+                            "__typename": "ReportGeneratedContent"
+                        },
+                        "__typename": "Report"
+                    },
+                    "votes": 85,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzEz",
+                        "handle": "security",
+                        "name": "HackerOne",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/000/013/fa942b9b1cbf4faf37482bf68458e1195aab9c02_original.png/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/security",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": 12500,
+                    "latest_disclosable_action": "Activities::ReportBecamePublic",
+                    "latest_disclosable_activity_at": "2026-04-16T12:00:21.536Z",
+                    "submitted_at": "2025-08-05T16:15:14.028Z",
+                    "disclosed": true,
+                    "has_collaboration": false,
+                    "collaborators": []
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "data": {
+        "resource": {
+            "url": "https://hackerone.com/adilnbabras",
+            "__typename": "User",
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjE4OTgyNg==",
+            "username": "adilnbabras"
+        },
+        "me": null
+    }
+}

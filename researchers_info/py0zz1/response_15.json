@@ -1,0 +1,94 @@
+{
+    "data": {
+        "ranked_cve_entries": {
+            "pageInfo": {
+                "hasNextPage": true,
+                "endCursor": "eyJyYW5rIjoxMC4wLCJpZCI6IkNWRS0yMDE3LTE1Mjc3In0=",
+                "__typename": "PageInfo"
+            },
+            "edges": [
+                {
+                    "cursor": "eyJyYW5rIjoxLjAsImlkIjoiQ1ZFLTIwMjEtMjYwODQifQ==",
+                    "node": {
+                        "cve_id": "CVE-2021-26084",
+                        "__typename": "RankedCveEntry"
+                    },
+                    "__typename": "RankedCveEntryEdge"
+                },
+                {
+                    "cursor": "eyJyYW5rIjoyLjAsImlkIjoiQ1ZFLTIwMTgtNTIzMCJ9",
+                    "node": {
+                        "cve_id": "CVE-2018-5230",
+                        "__typename": "RankedCveEntry"
+                    },
+                    "__typename": "RankedCveEntryEdge"
+                },
+                {
+                    "cursor": "eyJyYW5rIjozLjAsImlkIjoiQ1ZFLTIwMjUtMDEzMyJ9",
+                    "node": {
+                        "cve_id": "CVE-2025-0133",
+                        "__typename": "RankedCveEntry"
+                    },
+                    "__typename": "RankedCveEntryEdge"
+                },
+                {
+                    "cursor": "eyJyYW5rIjo0LjAsImlkIjoiQ1ZFLTIwMjQtMzQzNTEifQ==",
+                    "node": {
+                        "cve_id": "CVE-2024-34351",
+                        "__typename": "RankedCveEntry"
+                    },
+                    "__typename": "RankedCveEntryEdge"
+                },
+                {
+                    "cursor": "eyJyYW5rIjo1LjAsImlkIjoiQ1ZFLTIwMTgtMTI4NSJ9",
+                    "node": {
+                        "cve_id": "CVE-2018-1285",
+                        "__typename": "RankedCveEntry"
+                    },
+                    "__typename": "RankedCveEntryEdge"
+                },
+                {
+                    "cursor": "eyJyYW5rIjo1LjAsImlkIjoiQ1ZFLTIwMjUtMjMzMDQifQ==",
+                    "node": {
+                        "cve_id": "CVE-2025-23304",
+                        "__typename": "RankedCveEntry"
+                    },
+                    "__typename": "RankedCveEntryEdge"
+                },
+                {
+                    "cursor": "eyJyYW5rIjo1LjAsImlkIjoiQ1ZFLTIwMjYtMjM4NjkifQ==",
+                    "node": {
+                        "cve_id": "CVE-2026-23869",
+                        "__typename": "RankedCveEntry"
+                    },
+                    "__typename": "RankedCveEntryEdge"
+                },
+                {
+                    "cursor": "eyJyYW5rIjo4LjAsImlkIjoiQ1ZFLTIwMjUtMTIwNzMifQ==",
+                    "node": {
+                        "cve_id": "CVE-2025-12073",
+                        "__typename": "RankedCveEntry"
+                    },
+                    "__typename": "RankedCveEntryEdge"
+                },
+                {
+                    "cursor": "eyJyYW5rIjo4LjAsImlkIjoiQ1ZFLTIwMjUtNDU3NiJ9",
+                    "node": {
+                        "cve_id": "CVE-2025-4576",
+                        "__typename": "RankedCveEntry"
+                    },
+                    "__typename": "RankedCveEntryEdge"
+                },
+                {
+                    "cursor": "eyJyYW5rIjoxMC4wLCJpZCI6IkNWRS0yMDE3LTE1Mjc3In0=",
+                    "node": {
+                        "cve_id": "CVE-2017-15277",
+                        "__typename": "RankedCveEntry"
+                    },
+                    "__typename": "RankedCveEntryEdge"
+                }
+            ],
+            "__typename": "RankedCveEntryConnection"
+        }
+    }
+}

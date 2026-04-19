@@ -1,0 +1,80 @@
+{
+    "data": {
+        "me": null,
+        "user": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDE3OTE4Ng==",
+            "username": "aikido_security",
+            "name": "Aikido Security",
+            "intro": "",
+            "profileActivated": true,
+            "pentester_profile": null,
+            "user_streak": {
+                "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlVzZXJTdHJlYWsvc3RhdGljJTJGc3RhdGljLXVzZXItc3RyZWFrJTJGMSUyRjIwMjYtMDMtMDErMDAlM0EwMCUzQTAwK1VUQyUyRjIwMjYtMDMtMDErMDAlM0EwMCUzQTAwK1VUQw==",
+                "length": 1,
+                "start_date": "2026-03-01T00:00:00.000Z",
+                "end_date": "2026-03-01T00:00:00.000Z",
+                "__typename": "UserStreak"
+            },
+            "__typename": "User",
+            "created_at": "2025-09-01T15:55:54.234Z",
+            "location": "",
+            "website": "https://aikido.dev/",
+            "bio": "",
+            "profile_picture": "https://profile-photos.hackerone-user-content.com/variants/gc5j872wn4d066ph8ca0ivjiiblb/3d4e754d8a327612276b876b684aac875c3ebdd0031b1c533d290982d3bc8837",
+            "bugcrowd_handle": "",
+            "hack_the_box_handle": "",
+            "github_handle": "",
+            "gitlab_handle": "",
+            "linkedin_handle": "",
+            "twitter_handle": "AikidoSecurity",
+            "cleared": false,
+            "verified": false,
+            "open_for_employment": null,
+            "mark_as_company_on_leaderboards": true,
+            "followed": false,
+            "resolved_report_count": 3,
+            "thanks_items_total_count": 3,
+            "badges": {
+                "edges": [
+                    {
+                        "awarded_at": "2026-04-19T09:14:42.510Z",
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzE4",
+                            "name": "Publish or Perish",
+                            "image_path": "/assets/users/badges/publish-8147952674b82ea0b5b349191e02cd01ad32166b4f1e60c2f82269c29ae308e8.png",
+                            "__typename": "Badge"
+                        },
+                        "__typename": "BadgesUsersEdge"
+                    },
+                    {
+                        "awarded_at": "2026-03-20T08:34:30.980Z",
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzU2MQ==",
+                            "name": "A7: Cross-Site Scripting (XSS)",
+                            "image_path": "https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/1e0cerfmjo0mx1vqmw0squild3x9?response-content-disposition=inline%3B%20filename%3D%22owasp-A7.png%22%3B%20filename%2A%3DUTF-8%27%27owasp-A7.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQGK6FURQ7YIYMNKA%2F20260419%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260419T161242Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjED4aCXVzLXdlc3QtMiJIMEYCIQDe8GPTGxQn883%2Bj4rmLa7a2BuVSrE0obsC%2BLcc6xbpVAIhAL3drRmqoJ%2FZEOnovzdCiwPqORLRTsY726xZOD6WOLxVKrEFCAcQAxoMMDEzNjE5Mjc0ODQ5IgyN5yTvaYylYXRdomoqjgVRw%2FvbFpOwJvGMokOb7SmLpqN7WbMhgl2r133SPM3dJyL7hVqL0ST%2BYdPXSVrJrIjmkmGoCzey54DS16wbGLrY4oFLOyL5tYReO6sTRukCzMct5rbUw1RW5WdOpdcaRvvSMVzDfl2x4b5Zj4LzqRkn%2FY1Q5BNfZSkZh4r7%2B%2FOXe6Cc5u%2FdXDZRfmhHrGFrorZAXsXuY3YZzfqP31h10nXpDoyI4staHox7F4CX9a%2Fm8Za0o5hiiZOdpodAvF6AoT%2BqSqWQUqXbRHgRXc4BeOC3rY0BEVznFTIU8oFVz8d%2FX%2FNT1yf3dmvpcEX0FloNlIl9TKZUi%2Bq%2FNhynu465p%2FvaYv20vTg%2BLll%2F0p2Fq2ZDi5ljdmnTFu5k9EYoTZPZEQs%2BYyAJkl0ZXvuhBwQ4LU3gsBPY1RZ%2FPuXTxs8YL7%2FPn8dxRqBZSnnqLPt5etR2Bsfv1vqw%2F6wbpKp3HEnFxel1LlqzpgfqBHLR2Q37b1R351W3%2Btko3AILDfcTvhdRkc%2FDOY97QjQMjTWkfYHFXp0OWlVJKzG3xmZdz3t542KhPkXjCVQJMJuJvffFTh3E2X0FmZIdgJv1EXNiJGYhplq5pFyW8fyo5VH0hjDaU4pWNhQVzz%2FGV2u9FSTwYBP84n8EA0mM5Nrn9%2FDXzWhRcC8mnRi%2F62AqI6kFl%2Br7TZORQytG889H8hDzVm61C8OwjAc43wYIWq6oLx9BbpYYB7XduwF77XjDAbx4QHJr2l1kPoGF7c58NOwoerUAmnYDt0Ogn2j4CGkk5wFCWrFVhldufYYFQTwzV6PUV92JEHK0kOinkqdI7ruIP4u1bv5s24sCo%2FnG4l6r4epIwpmy%2FNaLRH1nTt%2BbuXy2qMtZmwswh7STzwY6sAE0vKjaJy1qRJSIpOBoFZObcvsaObeqZGnQDw1GXsSIlayegaygVY34IakfaCVJv6x6G%2B%2B0p5fCJRmOzDMwLXftBFVeCOZSwpr0jriLKSYzh6zulUHaFecv3b51zooge7jQ7NxXoSAhLI7E8nXUbMiAj82lbTr3N8vWEAN5SSiZRyHRohRLIct%2FkbbUmZAmeN8hKXbDOgKmXWOU9MatZfAAf0trGbYM1INTudCcMWPQsg%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=38193cdfcec437a5851e506932f5ecce636e95a0516606827969856fdcd42938",
+                            "__typename": "Badge"
+                        },
+                        "__typename": "BadgesUsersEdge"
+                    },
+                    {
+                        "awarded_at": "2026-02-19T08:00:40.625Z",
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzEw",
+                            "name": "Streaker",
+                            "image_path": "/assets/users/badges/streak_bronze-a621aa2646ac3c5ba6c21799f37023848a01e770fa7a0bc38bb117f4dbd54ef2.png",
+                            "__typename": "Badge"
+                        },
+                        "__typename": "BadgesUsersEdge"
+                    }
+                ],
+                "__typename": "BadgesUsersConnection"
+            },
+            "public_reviews": {
+                "edges": [],
+                "__typename": "HackerReviewsConnection"
+            }
+        },
+        "id_verification": null,
+        "__typename": "Query"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "data": {
+        "me": null,
+        "user": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDM0NjIxNQ==",
+            "username": "xavlimsg",
+            "name": "XavLimSG",
+            "intro": "",
+            "profileActivated": true,
+            "pentester_profile": null,
+            "user_streak": {
+                "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlVzZXJTdHJlYWsvc3RhdGljJTJGc3RhdGljLXVzZXItc3RyZWFrJTJGMyUyRjIwMjYtMDItMDErMDAlM0EwMCUzQTAwK1VUQyUyRjIwMjYtMDQtMDErMDAlM0EwMCUzQTAwK1VUQw==",
+                "length": 3,
+                "start_date": "2026-02-01T00:00:00.000Z",
+                "end_date": "2026-04-01T00:00:00.000Z",
+                "__typename": "UserStreak"
+            },
+            "__typename": "User",
+            "created_at": "2026-02-03T15:59:59.775Z",
+            "location": "Singapore",
+            "website": null,
+            "bio": "",
+            "profile_picture": "https://profile-photos.hackerone-user-content.com/variants/ginaiesntilpg69vcvek17vriamy/4c3f4b935c410fd89e32ce8c7cd577936b6edbe6a803fe368b72451551fd78d2",
+            "bugcrowd_handle": "",
+            "hack_the_box_handle": "",
+            "github_handle": "",
+            "gitlab_handle": "",
+            "linkedin_handle": "",
+            "twitter_handle": "",
+            "cleared": false,
+            "verified": true,
+            "open_for_employment": true,
+            "mark_as_company_on_leaderboards": false,
+            "followed": false,
+            "resolved_report_count": 4,
+            "thanks_items_total_count": 8,
+            "badges": {
+                "edges": [
+                    {
+                        "awarded_at": "2026-04-14T19:25:40.001Z",
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzE4",
+                            "name": "Publish or Perish",
+                            "image_path": "/assets/users/badges/publish-8147952674b82ea0b5b349191e02cd01ad32166b4f1e60c2f82269c29ae308e8.png",
+                            "__typename": "Badge"
+                        },
+                        "__typename": "BadgesUsersEdge"
+                    },
+                    {
+                        "awarded_at": "2026-03-26T17:30:01.583Z",
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzU2MQ==",
+                            "name": "A7: Cross-Site Scripting (XSS)",
+                            "image_path": "https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/1e0cerfmjo0mx1vqmw0squild3x9?response-content-disposition=inline%3B%20filename%3D%22owasp-A7.png%22%3B%20filename%2A%3DUTF-8%27%27owasp-A7.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQGK6FURQ7GVKIFI4%2F20260419%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260419T160950Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjED8aCXVzLXdlc3QtMiJHMEUCIQCgeohbJaO19MwJMFmX5PHO1go407KdV5FM9zqUKag7xgIgDUfbFW%2BVD5nj9lrYHqCw461mcJPSFGEOwP8W5pbC7XsqsgUICBADGgwwMTM2MTkyNzQ4NDkiDHle5J%2BWObFdOO6OvSqPBZDkblB520qmQdaNRLJg1sPH2Ma6mQ2j9FZstjQFrO9y7wPGJ%2BeYu7%2FQ6VtK3xzow0%2B%2Bzav32x3hx6C6vqsYVKQIafAnYHJHxLxbwVRANK%2Fsy8bp4Ob%2FnK2PE0xczu%2BzVIkKeaXMw8uXvC%2F0UD8ikfQkiTxs2YHDdQGRH4kP8YLHouyHYHnDrq29trSvSflhWBGlGIuuAhmaycI%2BBHjjLW34CYi0EDQfWSzyqvILlYTE6DayP499B%2BVPrkNFgbwpoA%2B34fikAPdAs4eXi3Fej%2BKhTc98AS9nEUT6bYrifD0Tkw92mgJFuhFzHcwRGUSLa%2FXgr3TvgrIH4NcRGFMgTHSJyVmy4bsaLdIJIxYEA1OVshZsTMVif61j4Mqnjqu7zMUwQJTrod0qVt%2BFeruU2rPh3paymMGVrgFTOygRQ9u667%2FlyL58QM1SLyaJghJujrPrxN8aG4P7Ra%2BkVCJ8W7u8ce3h6cjA2MYhwKFNkkM8t6Rs3SBN23MDVLeTK69vOS%2BHh22LsuKFI43teegdKiUjMTKEPLl%2BsU1s%2B8JC%2FxP8eON%2Bs9oMHs9yaJVXMMKTAdzbM%2BqcHPMaDdhVF%2BLkHLRaLQ2np4HR8njLdXPCo%2BXbgEV3F9cuS3zyPRNYtsJQ%2BPxCkfff9r8%2Fi4AxUGgDit1qtA1RSYwujzHjsKDt2%2FLYcYf9x%2FnFT6ZCmp2fSdFl4wcd8eTTAPJCeu30iagz4%2B%2FaFLaNgkOB90bL50EwQ6NUaOrj50EqZkhc23wyCzPP6Q4VAmfCk2QMEOMOXz%2BNfDbZ1T5DLE0To2vwNI0A5mBRuPkFyn5nd2Qr1BZACSWjtxI2rTWhiZUSsX4zVXhlHlpSwyEhO9glb7stvHYWV0kwyuCTzwY6sQGU3dusDv6JSRrEYKS3nW%2FhCrCDkN7%2Fn3b0Idrofzc3ZuPqmF%2FJO33yf0cof3aGR%2Fe%2BpLn7uL6SosLUmT%2B3Ud65VfhK6zVbuckJCPbH9O0aqnJ4zEHNJq45RvhfBLDR2lRZ1aobcoCn8BjjXI4jrU9L3CJm2sGXJH0IEKANiDGijnMRTmnitOMSx4asJ848XwZeDmapfcru4g4iC%2BjiJ2yP8wRIGsKC0wFvhyIqOb0jLVk%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=3d707402a5e3e5b41067597c2a38962c7c7c0ec5685f01b4795e0df27f6bace2",
+                            "__typename": "Badge"
+                        },
+                        "__typename": "BadgesUsersEdge"
+                    },
+                    {
+                        "awarded_at": "2026-02-19T00:00:00.000Z",
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzkxMQ==",
+                            "name": "Milestone-program-Level-1",
+                            "image_path": "https://hackathon-photos.hackerone-user-content.com/66ij9sjj8a5nfwyf642nvpgl1zxo",
+                            "__typename": "Badge"
+                        },
+                        "__typename": "BadgesUsersEdge"
+                    }
+                ],
+                "__typename": "BadgesUsersConnection"
+            },
+            "public_reviews": {
+                "edges": [],
+                "__typename": "HackerReviewsConnection"
+            }
+        },
+        "id_verification": null,
+        "__typename": "Query"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "data": {
+        "resource": {
+            "url": "https://hackerone.com/argareksapatii",
+            "__typename": "User",
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDQwMjYwOA==",
+            "username": "argareksapatii"
+        },
+        "me": null
+    }
+}

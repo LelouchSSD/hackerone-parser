@@ -1,0 +1,101 @@
+{
+    "data": {
+        "me": null,
+        "search": {
+            "__typename": "SearchResultConnection",
+            "total_count": 2,
+            "nodes": [
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzM2NDI2MDA=",
+                    "_id": "3642600",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDQwMjYwOA==",
+                        "username": "argareksapatii",
+                        "name": "nobcoder",
+                        "__typename": "User"
+                    },
+                    "cve_ids": [],
+                    "cwe": null,
+                    "severity_rating": null,
+                    "upvoted": null,
+                    "public": true,
+                    "report": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydC8zNjQyNjAw",
+                        "databaseId": "3642600",
+                        "title": "Authorization header leak in ssrf_filter via cross-host redirect leads to credential theft and unauthorized access",
+                        "substate": "resolved",
+                        "url": "https://hackerone.com/reports/3642600",
+                        "disclosed_at": "2026-04-15T20:43:58.628Z",
+                        "report_generated_content": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydEdlbmVyYXRlZENvbnRlbnQvODY0Ng==",
+                            "hacktivity_summary": "A vulnerability was discovered in the `ssrf_filter` library. The vulnerability allowed an attacker-controlled redirect target to receive credentials that were intended only for the original request origin. This was possible because `ssrf_filter` followed redirects by rebuilding each redirected request from the original request options, including the `Authorization` header. As a result, sensitive state such as bearer tokens was forwarded across cross-host redirects, leading to credential theft and unauthorized access.",
+                            "__typename": "ReportGeneratedContent"
+                        },
+                        "__typename": "Report"
+                    },
+                    "votes": 27,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpWdWxuZXJhYmlsaXR5RGlzY2xvc3VyZVByb2dyYW0vMjk4MzM=",
+                        "handle": "arkadiyt-projects",
+                        "name": "arkadiyt-projects",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/029/833/c7d79126a63550aa7c99662ecb49eca1a8b2d1c3_original.png/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/arkadiyt-projects",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::ReportBecamePublic",
+                    "latest_disclosable_activity_at": "2026-04-15T20:43:58.725Z",
+                    "submitted_at": "2026-04-01T16:00:33.081Z",
+                    "disclosed": true,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzM2MzAzMTA=",
+                    "_id": "3630310",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDQwMjYwOA==",
+                        "username": "argareksapatii",
+                        "name": "nobcoder",
+                        "__typename": "User"
+                    },
+                    "cve_ids": [],
+                    "cwe": "Improper Input Validation",
+                    "severity_rating": "High",
+                    "upvoted": null,
+                    "public": true,
+                    "report": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydC8zNjMwMzEw",
+                        "databaseId": "3630310",
+                        "title": "HTTP/2 server push accepts a non-authoritative :scheme=https over cleartext h2c, enabling HTTPS cache-key poisoning",
+                        "substate": "informative",
+                        "url": "https://hackerone.com/reports/3630310",
+                        "disclosed_at": "2026-03-29T16:44:13.585Z",
+                        "report_generated_content": null,
+                        "__typename": "Report"
+                    },
+                    "votes": 23,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzM1NjYz",
+                        "handle": "curl",
+                        "name": "curl",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/curl",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::ManuallyDisclosed",
+                    "latest_disclosable_activity_at": "2026-03-29T16:44:13.453Z",
+                    "submitted_at": "2026-03-26T18:56:06.933Z",
+                    "disclosed": true,
+                    "has_collaboration": false,
+                    "collaborators": []
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "data": {
+        "me": null,
+        "search": {
+            "__typename": "SearchResultConnection",
+            "total_count": 1,
+            "nodes": [
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzM0MDAxNDM=",
+                    "_id": "3400143",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNTY2NzMx",
+                        "username": "py0zz1",
+                        "name": "Sang Yeong Pyo",
+                        "__typename": "User"
+                    },
+                    "cve_ids": [],
+                    "cwe": "Insufficiently Protected Credentials",
+                    "severity_rating": "Medium",
+                    "upvoted": null,
+                    "public": true,
+                    "report": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydC8zNDAwMTQz",
+                        "databaseId": "3400143",
+                        "title": "Credential Disclosure via Unvalidated directDownloadUrl (Missing DontAddCredentialsAttribute)",
+                        "substate": "resolved",
+                        "url": "https://hackerone.com/reports/3400143",
+                        "disclosed_at": "2026-04-13T16:23:08.546Z",
+                        "report_generated_content": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydEdlbmVyYXRlZENvbnRlbnQvODY0MA==",
+                            "hacktivity_summary": "The Nextcloud Desktop Client was found to automatically include user credentials (Authorization header with username and password in Base64) when downloading files via the \"directDownloadUrl\" feature. This allowed a malicious Nextcloud server to specify an attacker-controlled URL, causing the client to leak the user's credentials to the attacker's server. The root cause was the failure to validate the origin of the \"directDownloadUrl\" and the lack of setting the \"DontAddCredentialsAttribute\" for cross-origin requests.",
+                            "__typename": "ReportGeneratedContent"
+                        },
+                        "__typename": "Report"
+                    },
+                    "votes": 24,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzEzMjkx",
+                        "handle": "nextcloud",
+                        "name": "Nextcloud",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/hsgut1vi1cv8housqai9cm9383yx/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/nextcloud",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": 250,
+                    "latest_disclosable_action": "Activities::ReportBecamePublic",
+                    "latest_disclosable_activity_at": "2026-04-13T16:23:08.873Z",
+                    "submitted_at": "2025-10-26T10:48:36.740Z",
+                    "disclosed": true,
+                    "has_collaboration": false,
+                    "collaborators": []
+                }
+            ]
+        }
+    }
+}

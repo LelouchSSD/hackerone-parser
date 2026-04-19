@@ -1,0 +1,80 @@
+{
+    "data": {
+        "me": null,
+        "user": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMTE2ODIyMw==",
+            "username": "adityasunny_06",
+            "name": "aditya  sunny",
+            "intro": "As a student of cybersecurity, Aditya has a deep passion for researching and exploring the latest trends and developments in the field. With an extensive knowledge of various cyber threats, he is constantly working to identify and mitigate potential risks, while also staying up to date with emerging technologies and techniques. Whether it's researching new attack vectors or analyzing the latest security protocols, Aditya is committed to helping individuals and organizations stay safe and secure in today's ever-changing digital landscape.",
+            "profileActivated": true,
+            "pentester_profile": null,
+            "user_streak": {
+                "id": "Z2lkOi8vaGFja2Vyb25lL09iamVjdHM6OlVzZXJTdHJlYWsvc3RhdGljJTJGc3RhdGljLXVzZXItc3RyZWFrJTJGMSUyRjIwMjYtMDQtMDErMDAlM0EwMCUzQTAwK1VUQyUyRjIwMjYtMDQtMDErMDAlM0EwMCUzQTAwK1VUQw==",
+                "length": 1,
+                "start_date": "2026-04-01T00:00:00.000Z",
+                "end_date": "2026-04-01T00:00:00.000Z",
+                "__typename": "UserStreak"
+            },
+            "__typename": "User",
+            "created_at": "2020-06-01T22:33:11.163Z",
+            "location": "bihar",
+            "website": null,
+            "bio": "Aditya is skilled and experienced cybersecurity researcher, specializing in cyber threat intelligence, vulnerability assessment, penetration testing, and web application security. He has a strong technical background in programming and ethical hacking, which makes him capable of identifying and exploiting vulnerabilities in the most complex systems.",
+            "profile_picture": "https://profile-photos.hackerone-user-content.com/variants/y8j7fz391wg7uhcj1kmwnw57vnin/4c3f4b935c410fd89e32ce8c7cd577936b6edbe6a803fe368b72451551fd78d2",
+            "bugcrowd_handle": "adityasunny06",
+            "hack_the_box_handle": "",
+            "github_handle": "",
+            "gitlab_handle": "",
+            "linkedin_handle": "aditay-kumar",
+            "twitter_handle": "aditysunny06",
+            "cleared": false,
+            "verified": true,
+            "open_for_employment": true,
+            "mark_as_company_on_leaderboards": false,
+            "followed": false,
+            "resolved_report_count": 2,
+            "thanks_items_total_count": 4,
+            "badges": {
+                "edges": [
+                    {
+                        "awarded_at": "2026-03-17T06:12:33.796Z",
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzE=",
+                            "name": "Insecticide",
+                            "image_path": "/assets/users/badges/resolved_bronze-532a63c67f1f1f72de0d77a30606a972dd732a50b34f52ef8da190d8ac1666f5.png",
+                            "__typename": "Badge"
+                        },
+                        "__typename": "BadgesUsersEdge"
+                    },
+                    {
+                        "awarded_at": "2026-03-17T06:12:33.796Z",
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzc=",
+                            "name": "TrailBlazer",
+                            "image_path": "/assets/users/badges/trendsetter-0b360002175f1fc3be1eb843f4b10a09c8e14b31d73e1f3c4dc97b10ece70ade.png",
+                            "__typename": "Badge"
+                        },
+                        "__typename": "BadgesUsersEdge"
+                    },
+                    {
+                        "awarded_at": "2026-03-17T06:12:33.796Z",
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0JhZGdlLzE3",
+                            "name": "Good Samaritan",
+                            "image_path": "/assets/users/badges/samaritan-d9df23bc0d274e46f53eeae4edc794dc6d212fcb7761efd60f822292ba436d1b.png",
+                            "__typename": "Badge"
+                        },
+                        "__typename": "BadgesUsersEdge"
+                    }
+                ],
+                "__typename": "BadgesUsersConnection"
+            },
+            "public_reviews": {
+                "edges": [],
+                "__typename": "HackerReviewsConnection"
+            }
+        },
+        "id_verification": null,
+        "__typename": "Query"
+    }
+}

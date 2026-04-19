@@ -1,0 +1,100 @@
+{
+    "data": {
+        "user": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNjI5MTg3",
+            "user_display_options": {
+                "show_private_team_thanks": true,
+                "__typename": "UserDisplayOptions"
+            },
+            "username": "mclaren650sspider",
+            "thanks_items_total_count": 105,
+            "thanks_items": {
+                "pageInfo": {
+                    "hasNextPage": true,
+                    "endCursor": "NQ",
+                    "__typename": "PageInfo"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMTY4MzczNzUw",
+                            "rank": 10,
+                            "report_count": 10,
+                            "total_report_count": 10,
+                            "reputation": 492,
+                            "team": {
+                                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzU0MzQ5",
+                                "handle": "ibb",
+                                "name": "Internet Bug Bounty",
+                                "state": "public_mode",
+                                "url": "https://hackerone.com/ibb",
+                                "profile_picture": "https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/v0qywgoh5hm4cbhuanu8mqdtowhr/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c?response-content-disposition=inline%3B%20filename%3D%22ibb%20revision%205%20copy.png%22%3B%20filename%2A%3DUTF-8%27%27ibb%2520revision%25205%2520copy.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQGK6FURQ6ZTJSFBW%2F20260419%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260419T161229Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjED8aCXVzLXdlc3QtMiJHMEUCIAcc9NNlMbHTP3HwccjNtNhywQtFJDfixc5aTYtRkkweAiEAlr8%2Bo37XFzzPEjOxrRJDHKznZ2xoCdPqgZTw9x0IC7EqsQUICBADGgwwMTM2MTkyNzQ4NDkiDNV3m9Wnc%2FZXdq7zYiqOBbknQNQA3m%2FQA2Q9%2BwSzZfFVm5LhtnCyJflrLTFs0ZNU7FFOklQLRqaJTk5Pi0MaPftx2bdLtu%2FLpxYvTGN3Rt92vB2SGLsG8riSmvUGvgkwugI2N3yEY4iU6ZjQ4qhaOjjhDJruSWo%2B9tjAsc4nzSOoE2VZj0E4NmAO%2BBkk8U35hvNEEl3nV%2FlWEMk3LpoDNuRg76uh%2FARC%2FcTZi4tXAvgkVck4kXYKkqP2kVnKRKu6mCL5Bfps1gI6SHlpZQfAEHnbYOTSDOJj%2BUIWj85x1j702d9V17hdz5wLcc4YdEx6luBMwzhCLOSidNRlsgRRlf%2B%2FJDbziDcxMyvX11QOCFFuA2RxTptToqAmQZRmQAdPwLOBpkMSUV1sQCDLNq3iVu%2BNR%2Bm0XkK4%2B73%2F9IjGV8PGZffq1jw5%2BHdM4gT1gMZs0NzQdNry%2F45nOFJHzEUeuHNSmNNfwxaePbrGXPyQTGLOMn22OrbqXaVedH5gX3Fws1iS4J1o2MaTL739%2BjqwCb5IxSV02B48T9rBDvEKnaC3dfkwh4dIKmhi8GkMOLx8MAxZYjUlwO3LqYm2wTTkqurotABwBvW9ip01%2B5bD5j0JkSBvSDgkIv6fzJbDHtttMJi6IYjoV643Nk7Vih9cfGv8PsdQaCO4%2BNX%2F94mt800Ntm8fiu58uSEyTvUTA4KmP5TBWFHWTIMORIhZ1XaTflZvb7icHCiRCt7Ki0P7JjHDoo8Hm8bHUObWTkGKJj6zEOBelhIrNAfal%2FTS9NZU3hNLqaREGFndXIz3FMuA9lvLMNPbhzNjx%2BaxBDYcDwGJiaGJ7O4jx2qlCI0KDHswn7Se9kxrx8uvWm1dWlcVEet0IMGq2BcQ1d%2BvP6TvzjDC4JPPBjqxAScr66zeoZ4tZdXCPJPI9y4yI%2BD7RyJ408DW%2FWMj5uGL0vmacPWUuhPQXnjsxUs2Xtq9UZGRocW7V%2FaMp7LyUXtdzrUddEUooeWbXd3ihQvuhnNv1PflH3Og3kVrvOwLk2nfoK1jTCt%2BeFXqSpJQ57iQq7ojPfzO69QMLW1oCsiiXNOyhP0SIfm5dpLFPZzcu%2Fp1v2j8%2FE42OENQLaO%2Fv%2B1srxIGp%2B2ZNNCn%2B%2FpvzHlvxQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1fb8ada50319c33a7edee450eb2cf8bee711e61e7ea61748f7f9ad82e61c77db",
+                                "__typename": "Team"
+                            },
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjQ2MjgxNjU2",
+                            "rank": 18,
+                            "report_count": 6,
+                            "total_report_count": 7,
+                            "reputation": 207,
+                            "team": null,
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjE3NzM0MTk4",
+                            "rank": null,
+                            "report_count": 5,
+                            "total_report_count": 7,
+                            "reputation": 203,
+                            "team": null,
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjU2MjQyNzA=",
+                            "rank": 70,
+                            "report_count": 6,
+                            "total_report_count": 13,
+                            "reputation": 167,
+                            "team": {
+                                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzE4OTQ=",
+                                "handle": "github",
+                                "name": "GitHub",
+                                "state": "public_mode",
+                                "url": "https://hackerone.com/github",
+                                "profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/001/894/1de36b69ee85cb77397b0ee01ddbabd7ed47a3dd_original.jpg/d9695107bfcd68eeb1c9e0912b109cdae9a6c00c0bda6fd4cbd6d9bdb828840a",
+                                "__typename": "Team"
+                            },
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vMjkyMjQyOTI5",
+                            "rank": 5,
+                            "report_count": 3,
+                            "total_report_count": 3,
+                            "reputation": 140,
+                            "team": null,
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    }
+                ],
+                "__typename": "ThanksItemConnection"
+            },
+            "__typename": "User"
+        }
+    }
+}

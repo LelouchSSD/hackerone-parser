@@ -1,0 +1,126 @@
+{
+    "data": {
+        "me": null,
+        "search": {
+            "__typename": "SearchResultConnection",
+            "total_count": 3,
+            "nodes": [
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzM1OTQxMzc=",
+                    "_id": "3594137",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDE3OTE4Ng==",
+                        "username": "aikido_security",
+                        "name": "Aikido Security",
+                        "__typename": "User"
+                    },
+                    "cve_ids": [],
+                    "cwe": "Cross-site Scripting (XSS) - Stored",
+                    "severity_rating": "Medium",
+                    "upvoted": null,
+                    "public": true,
+                    "report": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydC8zNTk0MTM3",
+                        "databaseId": "3594137",
+                        "title": "Stored XSS in attachment-display exploitable through SameSite",
+                        "substate": "resolved",
+                        "url": "https://hackerone.com/reports/3594137",
+                        "disclosed_at": "2026-04-19T09:14:42.295Z",
+                        "report_generated_content": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL1JlcG9ydEdlbmVyYXRlZENvbnRlbnQvODY1MA==",
+                            "hacktivity_summary": "A stored XSS vulnerability was discovered in the attachment-display feature of Roundcube. By uploading an HTML file and opening it through the display-attachment endpoint, the embedded script could execute under the Roundcube origin. The issue was caused by the lack of a restrictive Content Security Policy in the attachment display flow, unlike the general attachment viewer.",
+                            "__typename": "ReportGeneratedContent"
+                        },
+                        "__typename": "Report"
+                    },
+                    "votes": 4,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzEzMjkx",
+                        "handle": "nextcloud",
+                        "name": "Nextcloud",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/hsgut1vi1cv8housqai9cm9383yx/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/nextcloud",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": null,
+                    "latest_disclosable_action": "Activities::ReportBecamePublic",
+                    "latest_disclosable_activity_at": "2026-04-19T09:14:42.510Z",
+                    "submitted_at": "2026-03-09T13:57:18.837Z",
+                    "disclosed": true,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzM1MjM3NzQ=",
+                    "_id": "3523774",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDE3OTE4Ng==",
+                        "username": "aikido_security",
+                        "name": "Aikido Security",
+                        "__typename": "User"
+                    },
+                    "cve_ids": null,
+                    "cwe": null,
+                    "severity_rating": null,
+                    "upvoted": null,
+                    "public": true,
+                    "report": null,
+                    "votes": 1,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzEwMzgzMQ==",
+                        "handle": "vercel-open-source",
+                        "name": "Vercel Open Source",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/js15zbfhilidjv71r0fnb12kckzw/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/vercel-open-source",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": 448,
+                    "latest_disclosable_action": "Activities::BugResolved",
+                    "latest_disclosable_activity_at": "2026-02-19T08:00:40.625Z",
+                    "submitted_at": "2026-01-25T13:07:27.317Z",
+                    "disclosed": false,
+                    "has_collaboration": false,
+                    "collaborators": []
+                },
+                {
+                    "__typename": "HacktivityDocument",
+                    "id": "Z2lkOi8vaGFja2Vyb25lL0NvbXBsZXRlSGFja3Rpdml0eVJlcG9ydEluZGV4LzM1MTkzNDA=",
+                    "_id": "3519340",
+                    "reporter": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDE3OTE4Ng==",
+                        "username": "aikido_security",
+                        "name": "Aikido Security",
+                        "__typename": "User"
+                    },
+                    "cve_ids": null,
+                    "cwe": null,
+                    "severity_rating": null,
+                    "upvoted": null,
+                    "public": true,
+                    "report": null,
+                    "votes": 10,
+                    "team": {
+                        "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzEwMzgzMQ==",
+                        "handle": "vercel-open-source",
+                        "name": "Vercel Open Source",
+                        "medium_profile_picture": "https://profile-photos.hackerone-user-content.com/variants/js15zbfhilidjv71r0fnb12kckzw/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                        "url": "https://hackerone.com/vercel-open-source",
+                        "currency": "usd",
+                        "__typename": "Team"
+                    },
+                    "total_awarded_amount": 4408,
+                    "latest_disclosable_action": "Activities::BugResolved",
+                    "latest_disclosable_activity_at": "2026-02-19T07:59:35.757Z",
+                    "submitted_at": "2026-01-21T16:36:50.962Z",
+                    "disclosed": false,
+                    "has_collaboration": false,
+                    "collaborators": []
+                }
+            ]
+        }
+    }
+}

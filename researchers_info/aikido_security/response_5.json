@@ -1,0 +1,84 @@
+{
+    "data": {
+        "user": {
+            "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDE3OTE4Ng==",
+            "user_display_options": {
+                "show_private_team_thanks": true,
+                "__typename": "UserDisplayOptions"
+            },
+            "username": "aikido_security",
+            "thanks_items_total_count": 3,
+            "thanks_items": {
+                "pageInfo": {
+                    "hasNextPage": false,
+                    "endCursor": "Mw",
+                    "__typename": "PageInfo"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vNDM2NDg4MjE5",
+                            "rank": 17,
+                            "report_count": 2,
+                            "total_report_count": 2,
+                            "reputation": 54,
+                            "team": {
+                                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzEwMzgzMQ==",
+                                "handle": "vercel-open-source",
+                                "name": "Vercel Open Source",
+                                "state": "public_mode",
+                                "url": "https://hackerone.com/vercel-open-source",
+                                "profile_picture": "https://profile-photos.hackerone-user-content.com/variants/js15zbfhilidjv71r0fnb12kckzw/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                                "__typename": "Team"
+                            },
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vNDQ2NDcwNjc0",
+                            "rank": null,
+                            "report_count": 1,
+                            "total_report_count": 1,
+                            "reputation": 14,
+                            "team": {
+                                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzEzMjkx",
+                                "handle": "nextcloud",
+                                "name": "Nextcloud",
+                                "state": "public_mode",
+                                "url": "https://hackerone.com/nextcloud",
+                                "profile_picture": "https://profile-photos.hackerone-user-content.com/variants/hsgut1vi1cv8housqai9cm9383yx/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                                "__typename": "Team"
+                            },
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "Z2lkOi8vaGFja2Vyb25lL0NhY2hlZFRoYW5rc0l0ZW0vNDQzOTQ2NTA2",
+                            "rank": null,
+                            "report_count": 0,
+                            "total_report_count": 1,
+                            "reputation": 0,
+                            "team": {
+                                "id": "Z2lkOi8vaGFja2Vyb25lL0VuZ2FnZW1lbnRzOjpCdWdCb3VudHlQcm9ncmFtLzQx",
+                                "handle": "cloudflare",
+                                "name": "Cloudflare Public Bug Bounty",
+                                "state": "public_mode",
+                                "url": "https://hackerone.com/cloudflare",
+                                "profile_picture": "https://profile-photos.hackerone-user-content.com/variants/000/000/041/a819f0d518a4854df667be26210167805f38a6a4_original.png/3f1ab5c6a9b6dadada1e6c8121700b884388bd0a43471fee1897a38ce57d0b2c",
+                                "__typename": "Team"
+                            },
+                            "__typename": "ThanksItem"
+                        },
+                        "__typename": "ThanksItemEdge"
+                    }
+                ],
+                "__typename": "ThanksItemConnection"
+            },
+            "__typename": "User"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "profile": {
+        "username": "mousepadkalilinux12",
+        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvNDM5NjIyMw==",
+        "url": "https://hackerone.com/mousepadkalilinux12"
+    },
+    "memberships": {
+        "total_count": 0
+    },
+    "snapshot": {
+        "signal": -1.0,
+        "signal_percentile": 29,
+        "reputation": 12,
+        "rank": 3558
+    },
+    "user_stats": {
+        "resolved_report_count": 1,
+        "thanks_items_total_count": 1,
+        "registered_at": "2026-03-23",
+        "handlers": {
+            "github": "ebаy.com"
+        },
+        "badges": {
+            "badges_count": 3,
+            "badges_names": [
+                [
+                    "2026-04-14",
+                    "TrailBlazer"
+                ],
+                [
+                    "2026-04-13",
+                    "Publish or Perish"
+                ],
+                [
+                    "2026-04-13",
+                    "Insecticide"
+                ]
+            ]
+        }
+    },
+    "weakness_stats": {
+        "Violation of Secure Design Principles": 1
+    }
+}

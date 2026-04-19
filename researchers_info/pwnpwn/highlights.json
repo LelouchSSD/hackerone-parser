@@ -1,0 +1,38 @@
+{
+    "profile": {
+        "username": "pwnpwn",
+        "id": "Z2lkOi8vaGFja2Vyb25lL1VzZXIvMjU5NzU2Nw==",
+        "url": "https://hackerone.com/pwnpwn"
+    },
+    "memberships": {
+        "total_count": 0
+    },
+    "snapshot": {},
+    "user_stats": {
+        "resolved_report_count": 4,
+        "thanks_items_total_count": 6,
+        "registered_at": "2023-02-20",
+        "bio": "<math><mtext><table><mglyph><style><![CDATA[</style><img title=\"]]&gt;&lt;/mglyph&gt;&lt;img&Tab;src=1&Tab;onerror=alert(1)&gt;\">@2@\"{@+@\"@@+@}{@@\"@+@\"@\"@+@?#{33\\33",
+        "handlers": {},
+        "badges": {
+            "badges_count": 3,
+            "badges_names": [
+                [
+                    "2024-02-02",
+                    "Patient"
+                ],
+                [
+                    "2024-02-02",
+                    "Greybeard"
+                ],
+                [
+                    "2023-10-26",
+                    "TrailBlazer"
+                ]
+            ]
+        }
+    },
+    "weakness_stats": {
+        "Integer Overflow": 1
+    }
+}
